@@ -40,6 +40,8 @@ sections:
         My research leverages human activity data to enhance spatiotemporal models, improving the accuracy of traffic and population forecasts. With a strong foundation in deep learning and graph convolutional networks, I aim to bridge the gap between urban infrastructure and data-driven insights. My work has been recognized through several publications, hackathons, and industry collaborations.
 
         Feel free to reach out for research collaborations or innovative AI applications! 😃
+
+        Contact: hsm6911@kaist.ac.kr
     design:
       columns: '1'
   - block: collection
