@@ -41,7 +41,8 @@ sections:
 
         Feel free to reach out for research collaborations or innovative AI applications! 😃
 
-        Contact: hsm6911@kaist.ac.kr
+        Contact: hsm6911 at kaist.ac.kr
+    
     design:
       columns: '1'
   - block: collection
