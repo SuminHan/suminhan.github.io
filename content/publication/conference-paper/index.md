@@ -28,7 +28,7 @@ publishDate: '2023-10-25T00:00:00Z'
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: CIKM 
+publication: CIKM'23 Proceedings of the 32nd ACM International Conference on Information and Knowledge Management*
 publication_short: CIKM
 
 
