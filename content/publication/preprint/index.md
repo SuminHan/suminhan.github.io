@@ -1,12 +1,14 @@
 ---
-title: "An example preprint / working paper"
+title: "Spatio-Temporal Road Traffic Prediction using Real-time Regional Knowledge"
 authors:
 - admin
-date: "2019-04-07T00:00:00Z"
+- Jisun An
+- Dongman Lee
+date: "2024-08-23T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2024-08-23T00:00:00Z"
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -17,21 +19,24 @@ publication_types: ["article"]
 publication: ""
 publication_short: ""
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: For traffic prediction in transportation services such as car-sharing and ride-hailing, mid-term road traffic prediction (within a few hours) is considered essential. However, the existing road-level traffic prediction has mainly studied how significantly micro traffic events propagate to the adjacent roads in terms of short-term prediction. On the other hand, recent attempts have been made to incorporate regional knowledge such as POIs, road characteristics, and real-time social events to help traffic prediction. However, these studies lack in understandings of different modalities of road-level and region-level spatio-temporal correlations and how to combine such knowledge. This paper proposes a novel method that embeds real-time region-level knowledge using POIs, satellite images, and real-time LTE access traces via a regional spatio-temporal module that consists of dynamic convolution and temporal attention, and conducts bipartite spatial transform attention to convert into road-level knowledge. Then the model ingests this embedded knowledge into a road-level attention-based prediction model. Experimental results on real-world road traffic prediction show that our model outperforms the baselines.
+
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Proposes a method for mid-term traffic prediction using region-level data, improving road-level prediction accuracy over baselines.
 
 tags:
-- Large Language Models
+- Multi-modal Dataset
+- Floating Population
+- Human Activity
 
 featured: true
 
 links:
 - name: Custom Link
-  url: http://example.org
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-url_code: 'https://github.com/HugoBlox/hugo-blox-builder'
+  url: https://www.arxiv.org/abs/2408.12882
+url_pdf: https://www.arxiv.org/pdf/2408.12882
+url_code: ''
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
@@ -42,7 +47,7 @@ url_video: '#'
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/s9CC2SKySJM)'
+  caption: ''
   focal_point: ""
   preview_only: false
 
@@ -61,11 +66,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides: example
 ---
-
-This work is driven by the results in my [previous paper](/publication/conference-paper/) on LLMs.
-
-{{% callout note %}}
-Create your slides in Markdown - click the *Slides* button to check out the example.
-{{% /callout %}}
-
-Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
