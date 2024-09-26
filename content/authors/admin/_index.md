@@ -1,17 +1,17 @@
 ---
 # Display name
-title: 吳健雄
+title: Sumin Han
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+# name_pronunciation: Sumin Han
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Sumin
+last_name: Han
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: ❤️‍🔥
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,109 +20,111 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Chief Scientist
+role: Ph.D. Candidate
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name: KAIST
+    url: https://kaist.ac.kr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:your-email@example.com'
+    url: 'mailto:hsm6911@kaist.ac.kr'
     label: E-mail Me
   - icon: brands/x
-    url: https://twitter.com/GetResearchDev
+    url: https://twitter.com/smhanlab
   - icon: brands/instagram
-    url: https://www.instagram.com/
+    url: https://www.instagram.com/smhan.lab/
   - icon: brands/github
-    url: https://github.com/gcushen
+    url: https://github.com/suminhan
   - icon: brands/linkedin
     url: https://www.linkedin.com/
   - icon: academicons/google-scholar
-    url: https://scholar.google.com/
+    url: https://scholar.google.co.kr/citations?hl=en&user=68LgAZAAAAAJ
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-4071-8469
 
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Traffic Prediction
+  - Urban Computing
+  - GeoSpatial LLM
 
 education:
-  - area: PhD Artificial Intelligence
-    institution: Stanford University
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: Ph.D. School of Computing
+    institution: Korea Advanced Institute of Science and Technology
+    date_start: 2018-03-01
+    date_end: 2025-02-28
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Traffic Prediction through Urban Human Activity
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+  - area: B.S. School of Computing
+    institution: Korea Advanced Institute of Science and Technology
+    date_start: 2013-03-01
+    date_end: 2018-02-28
     summary: |
-      GPA: 3.8/4.0
+      GPA: 3.56/4.0
 
       Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Operating Systems and Lab (A+)
+      - Introduction to Computer Graphics (A0)
+      - Software Projects for Industrial Collaboration (A+)
+   
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
-    company_url: ''
-    company_logo: ''
-    date_start: 2021-01-01
-    date_end: ''
+  - position: Software Engineering Intern
+    company_name: Satrec Initiative Co., Ltd.
+    company_url: 'https://www.satreci.com/'
+    company_logo: 'https://www.satreci.com/theme/responsive_satreci/include/img/top_logo_c.svg'
+    date_start: 2017-08-31
+    date_end: 2017-07-01
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
-    company_url: ''
-    company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
-    summary: |
+      - Parallel Computing Framework Design  (Node.js, MongoDB, HTML, CSS)
+  - position: Software Engineer
+    company_name: Law and Company
+    company_url: 'https://www.lawtalk.is/'
+    company_logo: 'https://oopy.lazyrockets.com/api/rest/cdn/image/a2430b0f-e9fd-4f7c-ad33-84ec88abdbc3.png'
+    date_start: 2014-03-01
+    date_end: 2014-05-31
+    summary: |2-
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
+      - Web Development (Node.js, MongoDB, HTML, CSS)
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python
+      - name: Tensorflow
+        description: ''
+        percent: 95
+        icon: code-bracket
+      - name: Pytorch
+        description: ''
+        percent: 85
+        icon: code-bracket
+      - name: C/C++
         description: ''
         percent: 80
         icon: code-bracket
+      - name: Python
+        description: ''
+        percent: 90
+        icon: code-bracket
       - name: Data Science
         description: ''
-        percent: 100
+        percent: 90
         icon: chart-bar
+      - name: MongoDB
+        description: ''
+        percent: 70
+        icon: circle-stack
       - name: SQL
         description: ''
-        percent: 40
+        percent: 70
         icon: circle-stack
   - name: Hobbies
     color: '#eeac02'
@@ -132,55 +134,29 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Cats
+      - name: Chess
         description: ''
-        percent: 100
+        percent: chess-knight
         icon: cat
-      - name: Photography
+      - name: Cooking
         description: ''
         percent: 80
-        icon: camera
+        icon: chef-hat
 
 languages:
   - name: English
+    percent: 90
+  - name: Korean
     percent: 100
-  - name: Chinese
-    percent: 75
-  - name: Portuguese
-    percent: 25
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
 ---
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Sumin Han is a highly skilled computer scientist currently pursuing an integrated MS and PhD at the Korea Advanced Institute of Science and Technology (KAIST). With a solid background in computing, Sumin specializes in advanced technologies such as parallel computing, AI, and deep learning, with proficiency in C/C++, Java, and Python. Their research contributions span multiple domains, focusing primarily on urban human activity analysis and spatiotemporal data prediction, with publications in leading international conferences and workshops.
+
+Sumin has an impressive array of accomplishments, including awards for innovative projects like predicting population trends using deep learning and receiving top honors in hackathons and competitions. Their work has been recognized both academically and in industry, with patents granted for predictive models and innovative data analysis methods. With a deep passion for improving urban systems, Sumin is committed to making significant impacts through their research, aiming to bridge technology and societal needs.
