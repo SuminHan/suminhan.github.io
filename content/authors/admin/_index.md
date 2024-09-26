@@ -66,7 +66,7 @@ education:
     date_start: 2013-03-01
     date_end: 2018-02-28
     summary: |
-      GPA: 3.56/4.0
+      GPA: 3.56/4.3
 
       Courses included:
       - Operating Systems and Lab (A+)
@@ -82,7 +82,7 @@ work:
     date_end: 2017-07-01
     summary: |2-
       Responsibilities include:
-      - Parallel Computing Framework Design  (Node.js, MongoDB, HTML, CSS)
+      - Parallel Computing Framework Design  (Docker, Slurm, Ganglia)
   - position: Software Engineer
     company_name: Law and Company
     company_url: 'https://www.lawtalk.is/'
