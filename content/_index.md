@@ -35,11 +35,11 @@ sections:
       title: '📚 My Research'
       subtitle: ''
       text: |-
-        Use this area to speak to your mission. I'm a research scientist in the Moonshot team at DeepMind. I blog about machine learning, deep learning, and moonshots.
+        I am a PhD candidate at KAIST, focusing on the intersection of urban data, AI, and traffic prediction.
 
-        I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
-        
-        Please reach out to collaborate 😃
+        My research leverages human activity data to enhance spatiotemporal models, improving the accuracy of traffic and population forecasts. With a strong foundation in deep learning and graph convolutional networks, I aim to bridge the gap between urban infrastructure and data-driven insights. My work has been recognized through several publications, hackathons, and industry collaborations.
+
+        Feel free to reach out for research collaborations or innovative AI applications! 😃
     design:
       columns: '1'
   - block: collection
