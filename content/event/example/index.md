@@ -1,7 +1,6 @@
----
-title: '2022 KAIST Tech Fair'
+title: 2022 KAIST Tech Fair
 
-event: '(2022 KAIST Tech Fair) Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks'
+event: (2022 KAIST Tech Fair) Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks
 event_url: https://techfair.kaist.ac.kr/sub040201
 
 location: COEX
