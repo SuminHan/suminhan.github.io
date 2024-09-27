@@ -1,7 +1,7 @@
 ---
 title: 2022 KAIST Tech Fair
 
-event: (2022 KAIST Tech Fair) Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks
+event: "(2022 KAIST Tech Fair) Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks"
 event_url: https://techfair.kaist.ac.kr/sub040201
 
 location: COEX
@@ -9,11 +9,10 @@ address:
   street: 
   city: Seoul
   region: KR
-  postcode: ''
   country: South Korea
 
 summary: Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks
-abstract: 'The situational awareness trust estimation device for real-time crowd-sensing services in a vehicular edge network according to an embodiment of the present invention may include: a trust estimator that estimates the trust value of a vehicle entering the coverage area based on historical data stored in the historical database and the I-sharing similarity list; and a video data processor that stores the trust value estimated by the trust estimator, identifies a trusted vehicle based on the stored trust value when a service request is made by the service requesting vehicle, sends a video data request message to the identified vehicle, and generates a bird's-eye view based on the received video data to provide to the service requesting vehicle.'
+abstract: "The situational awareness trust estimation device for real-time crowd-sensing services in a vehicular edge network according to an embodiment of the present invention may include: a trust estimator that estimates the trust value of a vehicle entering the coverage area based on historical data stored in the historical database and the I-sharing similarity list; and a video data processor that stores the trust value estimated by the trust estimator, identifies a trusted vehicle based on the stored trust value when a service request is made by the service requesting vehicle, sends a video data request message to the identified vehicle, and generates a bird's-eye view based on the received video data to provide to the service requesting vehicle."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
