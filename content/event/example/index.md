@@ -1,3 +1,4 @@
+---
 title: 2022 KAIST Tech Fair
 
 event: (2022 KAIST Tech Fair) Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks
