@@ -48,9 +48,9 @@ footer:
       allow_commercial: false
 
 # Localization
-locale:
-  date_format: 'Sep 26, 2024'
-  time_format: '13:30 PM'
+# locale:
+#   date_format: 'Sep 26, 2024'
+#   time_format: '13:30 PM'
 
 # Site features
 features:
