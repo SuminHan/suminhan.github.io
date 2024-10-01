@@ -1,13 +1,12 @@
 ---
-title: 'Encoding Urban Trajectory as a Sentence:Deep Learning Insights for Human Mobility Pattern'
+title: 'Exploring Commercial Gentrification using Instagram Data'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Youngjun Park
   - admin
-  - Jisun An
+  - Dasom Hong
   - Dongman Lee
 
 
@@ -16,11 +15,11 @@ authors:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: 2023-10-30
-doi: ''
+date: 2020-12-07
+doi: '10.1109/ASONAM49781.2020.9381374'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-10-30
+publishDate: 2020-12-07
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -28,22 +27,21 @@ publishDate: 2023-10-30
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: ACSP
-publication_short: ACSP
+publication: IEEE/ACM
+publication_short: IEEE/ACM
 
 
-abstract: Despite advancements in real estate appraisal methods, this study primarily focuses on two pivotal challenges. Firstly, we explore the often-underestimated impact of Points of Interest (POI) on property values, emphasizing the necessity for a comprehensive, data-driven approach to feature selection. Secondly, we integrate road-network-based Areal Embedding to enhance spatial understanding for real estate appraisal. We first propose a revised method for POI feature extraction, and discuss the impact of each POI for house price appraisal. Then we present the Areal embedding-enabled Masked Multihead Attention-based Spatial Interpolation for House Price Prediction (AMMASI) model, an improvement upon the existing ASI model, which leverages masked multi-head attention on geographic neighbor houses and similar-featured houses. Our model outperforms current baselines and also offers promising avenues for future optimization in real estate appraisal methodologies.
+abstract: Commercial gentrification refers to the replacement of low-value businesses like small local stores into high-value businesses like boutiques and chain stores. A handful of research efforts have been made to identify gentrification and their change by leveraging social media. However, their approaches lack in inferring how much commercial gentrification is developed in a target area and how long it has taken for the area to get to that phase. In this paper, we propose a novel scheme to estimate the commercial gentrification status of a target area and its development in terms of time and geographic dispersion using Instagram data. For this, we define our commercial gentrification phase criteria based on the conceptual model from the urban study. Then, we extract social features from both images and texts of Instagram posts, and leverage regression models to infer the commercial gentrification phase of a target area at the monthly timestamp. We also measure how geographical dispersion of geo-tagged Instagram posts matches the boutiques, which is the physical variable that has the strongest correlation with the commercial gentrification. Evaluation results show that our method yields a good quality of estimation compared to the ground truth. This assures that our method could be a meaningful tool for urban planners and policymakers to investigate and manage commercial gentrification.
 
 
 
 # Summary. An optional shortened abstract.
-summary: This study addresses the impact of Points of Interest (POI) on property values and introduces the AMMASI model, which enhances real estate appraisal by incorporating road-network-based Areal Embedding and masked multi-head attention, significantly improving house price prediction compared to existing models.
-
+summary: This paper proposes a novel method to estimate the status and progression of commercial gentrification in a target area using Instagram data by analyzing social features from images and texts, defining gentrification phases based on urban studies, and employing regression models for phase prediction, showing promising results for use by urban planners and policymakers.
 tags:
-  - House price appraisal
-  - Point of Interest (POI)
-  - Areal Embedding
-  - Masked multi-head attention
+  - Terms-Commercial Gentrification Inference
+  - Instagram
+  - Social Media
+  - Regression
 
 
 # Display this page in the Featured widget?
