@@ -27,8 +27,8 @@ publishDate: 2020-05-06
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Advances in Knowledge Discovery and Data Mining 24th - Pacific-Asia Conference, PAKDD 2020
-publication_short: PAKDD 20
+publication: PAKDD20 - Advances in Knowledge Discovery and Data Mining 24th Pacific-Asia Conference
+publication_short: PAKDD20
 
 
 abstract: Human Activity Recognition (HAR) using social media provides a solid basis for a variety of context-aware applications. Existing HAR approaches have adopted supervised machine learning algorithms using texts and their meta-data such as time, venue, and keywords. However, their recognition accuracy may decrease when applied to image-sharing social media where users mostly describe their daily activities and thoughts using both texts and images. In this paper, we propose a semi-supervised multi-modal deep embedding clustering method to recognize human activities on Instagram. Our proposed method learns multi-modal feature representations by alternating a supervised learning phase and an unsupervised learning phase. By utilizing a large number of unlabeled data, it learns a more generalized feature distribution for each HAR class and avoids overfitting to limited labeled data. Evaluation results show that leveraging multi-modality and unlabeled data is effective for HAR and our method outperforms existing approaches.
