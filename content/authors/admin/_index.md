@@ -65,13 +65,6 @@ education:
     institution: Korea Advanced Institute of Science and Technology
     date_start: 2013-03-01
     date_end: 2018-02-28
-    summary: |
-      GPA: 3.56/4.3
-
-      Courses included:
-      - Operating Systems and Lab (A+)
-      - Introduction to Computer Graphics (A0)
-      - Software Projects for Industrial Collaboration (A+)
    
 work:
   - position: Software Engineering Intern
