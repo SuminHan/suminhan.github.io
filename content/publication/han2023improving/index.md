@@ -1,25 +1,27 @@
 ---
-title: 'Human Activity Recognition Using Semi-supervised Multi-modal DEC for Instagram Data'
+title: 'Improving Real Estate Appraisal with POI Integration and Areal Embedding'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - Dongmin Kim
   - admin
-  - Heesuk Son
+  - Youngjun Park
+  - Sonia Sabir
+  - Jisun An
   - Dongman Lee
+
 
 # Author notes (optional)
 # author_notes:
 #   - 'Equal contribution'
 #   - 'Equal contribution'
 
-date: 2020-05-06
-doi: '10.1007/978-3-030-47426-3_67'
+date: 2023-11-20
+doi: ''
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-05-06
+publishDate: 2023-11-20
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -27,22 +29,23 @@ publishDate: 2020-05-06
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: PAKDD20 - Advances in Knowledge Discovery and Data Mining 24th Pacific-Asia Conference
-publication_short: PAKDD20
+publication: Arxiv
+publication_short: Arxiv
 
 
-abstract: Human Activity Recognition (HAR) using social media provides a solid basis for a variety of context-aware applications. Existing HAR approaches have adopted supervised machine learning algorithms using texts and their meta-data such as time, venue, and keywords. However, their recognition accuracy may decrease when applied to image-sharing social media where users mostly describe their daily activities and thoughts using both texts and images. In this paper, we propose a semi-supervised multi-modal deep embedding clustering method to recognize human activities on Instagram. Our proposed method learns multi-modal feature representations by alternating a supervised learning phase and an unsupervised learning phase. By utilizing a large number of unlabeled data, it learns a more generalized feature distribution for each HAR class and avoids overfitting to limited labeled data. Evaluation results show that leveraging multi-modality and unlabeled data is effective for HAR and our method outperforms existing approaches.
+abstract: Despite advancements in real estate appraisal methods, this study primarily focuses on two pivotal challenges. Firstly, we explore the often-underestimated impact of Points of Interest (POI) on property values, emphasizing the necessity for a comprehensive, data-driven approach to feature selection. Secondly, we integrate road-network-based Areal Embedding to enhance spatial understanding for real estate appraisal. We first propose a revised method for POI feature extraction, and discuss the impact of each POI for house price appraisal. Then we present the Areal embedding-enabled Masked Multihead Attention-based Spatial Interpolation for House Price Prediction (AMMASI) model, an improvement upon the existing ASI model, which leverages masked multi-head attention on geographic neighbor houses and similar-featured houses. Our model outperforms current baselines and also offers promising avenues for future optimization in real estate appraisal methodologies.
+
 
 
 # Summary. An optional shortened abstract.
-summary: This paper proposes a semi-supervised multi-modal deep embedding clustering method for Human Activity Recognition (HAR) on Instagram, which combines supervised and unsupervised learning to leverage both labeled and unlabeled data, improving recognition accuracy and outperforming existing approaches.
+summary: This study addresses the impact of Points of Interest (POI) on property values and introduces the AMMASI model, which enhances real estate appraisal by incorporating road-network-based Areal Embedding and masked multi-head attention, significantly improving house price prediction compared to existing models.
 
 tags:
-  - Human activity recognition
-  - Social media
-  - Multi-modal
-  - Deep embedded clustering
-  - Semi-supervised learning
+  - House price appraisal
+  - Point of Interest (POI)
+  - Areal Embedding
+  - Masked multi-head attention
+
 
 # Display this page in the Featured widget?
 featured: false
