@@ -49,7 +49,7 @@ profiles:
 interests:
   - Traffic Prediction
   - Urban Computing
-  - GeoSpatial LLM
+  - GeoSpatial AI
 
 education:
   - area: Ph.D. School of Computing
