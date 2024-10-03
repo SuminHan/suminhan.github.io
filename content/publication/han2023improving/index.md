@@ -29,8 +29,8 @@ publishDate: 2023-11-20
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: Arxiv
-publication_short: Arxiv
+publication: PAKDD DMO-FinTech
+publication_short: PAKDD-WS
 
 
 abstract: Despite advancements in real estate appraisal methods, this study primarily focuses on two pivotal challenges. Firstly, we explore the often-underestimated impact of Points of Interest (POI) on property values, emphasizing the necessity for a comprehensive, data-driven approach to feature selection. Secondly, we integrate road-network-based Areal Embedding to enhance spatial understanding for real estate appraisal. We first propose a revised method for POI feature extraction, and discuss the impact of each POI for house price appraisal. Then we present the Areal embedding-enabled Masked Multihead Attention-based Spatial Interpolation for House Price Prediction (AMMASI) model, an improvement upon the existing ASI model, which leverages masked multi-head attention on geographic neighbor houses and similar-featured houses. Our model outperforms current baselines and also offers promising avenues for future optimization in real estate appraisal methodologies.
@@ -55,7 +55,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'https://academicworkshops.github.io/DMO-FinTech/docs/Paper_Real_Estate_Appraisal.pdf'
 url_code: ''
 url_dataset: ''
 url_poster: ''
@@ -84,5 +84,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+slides: ""
 ---
