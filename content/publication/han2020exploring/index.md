@@ -27,8 +27,8 @@ publishDate: 2020-12-07
 publication_types: ['paper-conference']
 
 # Publication name and optional abbreviated publication name.
-publication: IEEE/ACM
-publication_short: IEEE/ACM
+publication: ASONAM
+publication_short: ASONAM
 
 
 abstract: Commercial gentrification refers to the replacement of low-value businesses like small local stores into high-value businesses like boutiques and chain stores. A handful of research efforts have been made to identify gentrification and their change by leveraging social media. However, their approaches lack in inferring how much commercial gentrification is developed in a target area and how long it has taken for the area to get to that phase. In this paper, we propose a novel scheme to estimate the commercial gentrification status of a target area and its development in terms of time and geographic dispersion using Instagram data. For this, we define our commercial gentrification phase criteria based on the conceptual model from the urban study. Then, we extract social features from both images and texts of Instagram posts, and leverage regression models to infer the commercial gentrification phase of a target area at the monthly timestamp. We also measure how geographical dispersion of geo-tagged Instagram posts matches the boutiques, which is the physical variable that has the strongest correlation with the commercial gentrification. Evaluation results show that our method yields a good quality of estimation compared to the ground truth. This assures that our method could be a meaningful tool for urban planners and policymakers to investigate and manage commercial gentrification.
@@ -81,5 +81,5 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-slides: example
+#  slides: example
 ---
