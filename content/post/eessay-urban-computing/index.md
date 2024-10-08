@@ -19,17 +19,25 @@ This essay encapsulates reflections from my doctoral program, which I believe ma
 
 ## Urban Space Robot
 
+![Urban Space Robot](./UrbanSpaceRobot.png)
+
 What is an Urban Space Robot? Unlike passive machines programmed for specific tasks, these robots autonomously provide solutions to resolve urban challenges. An Urban Space Robot aims to prevent excessive urbanization, construct necessary buildings, and devise continuous solutions for the well-being of urban residents.
 
 An Urban Space Robot resembles a balanced living organism, managing factors like population density, traffic, and energy use efficiently. With advancements in edge/cloud technologies, IoT devices such as smart traffic cameras and electric vehicles will generate vast amounts of spatiotemporal urban data. Understanding and processing this data will be facilitated through the Urban Embedding proposed in my dissertation, which will integrate into various deep learning-based AI applications.
 
 ## The City as Will and Representation
 
+
+![Convolutional Neural Network (CNN) and Embedded Representation](./image-cnn.png)
+
+
 Arthur Schopenhauer’s work, *The World as Will and Representation*, has significantly influenced my thinking. He proposed that the world can be understood through two concepts: representation and will.
 
 **Representation** encompasses everything perceived through our senses. For instance, when seeing a number, our visual signals are converted into neural signals that our brain deciphers. Schopenhauer viewed these stages of perception as representations, akin to how deep learning models process data.
 
 Conversely, **Will** extends to desires, cravings, and pursuits. For instance, the strong will of people drawn to urban areas can be observed in data about human movement, such as in MIT’s Senseable City Lab studies.
+
+![Human movement in WanderLust by MIT Senseable City Lab](./mit-senseable.png)
 
 When examining cities through the lens of representation and will, distinctions between Asian and European cities become apparent. Asian cities often prioritize convenience and efficiency, assessed through material figures. In contrast, European cities emphasize beauty, history, and individuality, respecting the unique wills of their citizens.
 
