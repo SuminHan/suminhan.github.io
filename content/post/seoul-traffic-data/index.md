@@ -1,7 +1,7 @@
 ---
 title: Seoul Traffic Data
 summary: Make Seoul Traffic Data to be Publicly available for researchers.
-date: 2024-05-14
+date: 2021-01-11
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
