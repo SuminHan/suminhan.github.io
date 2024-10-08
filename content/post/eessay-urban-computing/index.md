@@ -19,8 +19,6 @@ This essay encapsulates reflections from my doctoral program, which I believe ma
 
 ## Urban Space Robot
 
-![Urban Space Robot](./UrbanSpaceRobot.png)
-
 What is an Urban Space Robot? Unlike passive machines programmed for specific tasks, these robots autonomously provide solutions to resolve urban challenges. An Urban Space Robot aims to prevent excessive urbanization, construct necessary buildings, and devise continuous solutions for the well-being of urban residents.
 
 An Urban Space Robot resembles a balanced living organism, managing factors like population density, traffic, and energy use efficiently. With advancements in edge/cloud technologies, IoT devices such as smart traffic cameras and electric vehicles will generate vast amounts of spatiotemporal urban data. Understanding and processing this data will be facilitated through the Urban Embedding proposed in my dissertation, which will integrate into various deep learning-based AI applications.
