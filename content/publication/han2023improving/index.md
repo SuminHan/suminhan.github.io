@@ -56,7 +56,7 @@ featured: false
 #   url: http://example.org
 
 url_pdf: 'https://academicworkshops.github.io/DMO-FinTech/docs/Paper_Real_Estate_Appraisal.pdf'
-url_code: ''
+url_code: 'https://github.com/suminhan/AMMASI'
 url_dataset: ''
 url_poster: ''
 url_project: ''
