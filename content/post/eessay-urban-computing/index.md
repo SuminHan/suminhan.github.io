@@ -15,7 +15,7 @@ tags:
   - Academic
 ---
 
-This essay encapsulates reflections from my doctoral program, which I believe may hold greater value than the core argument of my dissertation on Urban Embedding. While methodologies may evolve, the philosophical contemplations expressed here represent a culmination of my lifelong efforts. I hope that those seeking answers to similar challenges may find resonance in my voice, much like Schopenhauer aimed to convey messages for future generations.
+This essay encapsulates reflections from my doctoral program, which I believe may hold greater value than the core argument of my dissertation. While methodologies may evolve, the philosophical contemplations expressed here represent a culmination of my lifelong efforts. I hope that those seeking answers to similar challenges may find resonance in my voice, much like Schopenhauer aimed to convey messages for future generations.
 
 ## Urban Space Robot
 
