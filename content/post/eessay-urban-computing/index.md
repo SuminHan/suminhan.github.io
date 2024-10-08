@@ -1,6 +1,6 @@
 ---
 title: Thoughts on Urban Computing
-summary: How I think about urban computing after my Ph.D. course.
+summary: Reflects on AI-driven Urban Space Robots, emphasizing the balance between data metrics and human experiences, inspired by Schopenhauer's philosophy.
 date: 2024-05-14
 
 # Featured image
