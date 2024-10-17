@@ -1,7 +1,7 @@
 ---
-title: My Journey Through the KAIST GESS Program: Dreaming of a Korean Silicon Valley
-summary: My experience in the KAIST GESS program reinforced his entrepreneurial vision of creating a Silicon Valley-like ecosystem in Korea, driven by collaboration, diversity, and innovation.
-date: 2021-01-11
+title: "My Journey Through the KAIST GESS Program: Dreaming of a Korean Silicon Valley"
+summary: "My experience in the KAIST GESS program reinforced his entrepreneurial vision of creating a Silicon Valley-like ecosystem in Korea, driven by collaboration, diversity, and innovation."
+date: 2024-05-14
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
