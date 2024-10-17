@@ -6,6 +6,9 @@ revealjs:
   theme: black
   transition: slide
   center: true
+slides:
+  theme: white  # Reveal JS theme name
+  highlight_style: github  # Highlight JS theme name
 ---
 
 # Introduction to HugoBlox
