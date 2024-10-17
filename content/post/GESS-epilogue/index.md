@@ -1,7 +1,7 @@
 ---
 title: "My Journey Through the KAIST GESS Program: Dreaming of a Korean Silicon Valley"
 summary: "My experience in the KAIST GESS program reinforced his entrepreneurial vision of creating a Silicon Valley-like ecosystem in Korea, driven by collaboration, diversity, and innovation."
-date: 2024-05-14
+date: 2024-07-03
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
@@ -16,7 +16,8 @@ tags:
 ---
 
 
-The GESS program has been an incredible opportunity for me.
+
+## The GESS program has been an incredible opportunity for me.
 
 I have been involved with Computer Science since high school and have always wanted to become like Mark Zuckerberg of Facebook or Bill Gates of Microsoft, who dropped out of college and built giant companies. From the moment I entered KAIST undergraduate, I dreamed of starting a business through entrepreneurship programs and startup internships. However, I felt that the Korean corporate culture, the relationship between investors and entrepreneurs, and the activation of the stock and M&A markets were insufficient for the emergence of unicorn companies. As a result, even while pursuing my Ph.D., I always dreamed of creating such a startup.
 
@@ -24,7 +25,9 @@ Even during my Ph.D., I consistently participated in hackathons and entrepreneur
 
 In this process, I collaborated with my team members to propose ideas equally and provide better services for our clients through consensus. Although there were a few conflicts, they stemmed not from personal pride but from a genuine desire to lead the team in a better direction. If the team culture relies on a single person, even one with a Ph.D. or an esteemed career, to make all the decisions, it might increase accuracy but doesn't guarantee that person will always be correct. Additionally, it may put undue pressure on the person to avoid mistakes and hesitate to take risks. However, when everyone presents their ideas and makes decisions collectively, there is less fear of mistakes. The team can rely on each other and compensate for each other's shortcomings. I believe entrepreneurship involves harmoniously advancing finance, technology, and culture toward a more developed world and ideology. Therefore, as introduced by many Korean senior entrepreneurs, Silicon Valley is a rapidly improving utopia for startup enthusiasts, unlike anywhere in the world.
 
-I dream it will be possible to create a similar Silicon Valley in Korea. Korea is currently facing various social issues, such as low birth rates and conflict between social groups of people, due to the industry centered on large corporations and the concentration in the metropolitan area. I think these are the side effects of bureaucratic academic elitism that hinder industrial development. However, unlike Japan or China, Korea is more open to accepting immigrants and various cultures from overseas, similar to the United States. Just as Silicon Valley operates and contributes to the development of the U.S., thanks to excellent immigrants, I see the potential for a similar economic model in Korea. The GESS program at KAIST might be showcasing the future of Korean corporate culture. I hope that, in this century, a future where excellent talents from around the world can work happily in Korea will come to fruition.  – Sumin Han
+I dream it will be possible to create a similar Silicon Valley in Korea. Korea is currently facing various social issues, such as low birth rates and conflict between social groups of people, due to the industry centered on large corporations and the concentration in the metropolitan area. I think these are the side effects of bureaucratic academic elitism that hinder industrial development. However, unlike Japan or China, Korea is more open to accepting immigrants and various cultures from overseas, similar to the United States. Just as Silicon Valley operates and contributes to the development of the U.S., thanks to excellent immigrants, I see the potential for a similar economic model in Korea. The GESS program at KAIST might be showcasing the future of Korean corporate culture. I hope that, in this century, a future where excellent talents from around the world can work happily in Korea will come to fruition.  
+
+– Sumin Han
 
 
 [KAIST NEWS](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970)
