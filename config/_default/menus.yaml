@@ -13,6 +13,9 @@ main:
   - name: Talks
     url: /#talks
     weight: 12
+  - name: News
+    url: /news
+    weight: 14
   - name: Blog
     url: /post
     weight: 13
