@@ -33,8 +33,9 @@ In this process, I collaborated with my team members to propose ideas equally an
 
 I dream it will be possible to create a similar Silicon Valley in Korea. Korea is currently facing various social issues, such as low birth rates and conflict between social groups of people, due to the industry centered on large corporations and the concentration in the metropolitan area. I think these are the side effects of bureaucratic academic elitism that hinder industrial development. However, unlike Japan or China, Korea is more open to accepting immigrants and various cultures from overseas, similar to the United States. Just as Silicon Valley operates and contributes to the development of the U.S., thanks to excellent immigrants, I see the potential for a similar economic model in Korea. The GESS program at KAIST might be showcasing the future of Korean corporate culture. I hope that, in this century, a future where excellent talents from around the world can work happily in Korea will come to fruition.  
 
-– Sumin Han
 
 ![Alt text](GESS-Broadcom.jpg)
 
 [KAIST NEWS](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970)
+
+– Sumin Han
