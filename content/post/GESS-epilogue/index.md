@@ -12,7 +12,7 @@ authors:
   - admin
 
 tags:
-  - Blog
+  - News
 ---
 
 
