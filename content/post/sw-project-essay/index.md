@@ -1,7 +1,7 @@
 ---
 title: "스타트업: 협력과 사랑으로 이루는 진정한 성공"
 summary: "스타트업과 협력을 통해 진정한 성공은 물질적 부가 아닌 사람과의 소통과 행복에서 비롯됨을 깨달은 이야기."
-date: 2024-07-03
+date: 2016-01-31
 
 # Featured image
 # Place an image named `featured.jpg/png` in this page's folder and customize its options here.
