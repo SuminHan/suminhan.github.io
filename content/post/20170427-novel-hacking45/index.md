@@ -1,6 +1,6 @@
 ---
 title: "HacKing 45"
-summary: "In 2045, a mysterious terrorist group hacked South Korea's advanced military technology, triggering a second Korean War by crippling North Korea's military systems and causing a global conflict that led to an unprecedented alliance between North and South Korea to combat a common enemy."
+summary: "2045년, 정체불명의 테러리스트 집단이 한국의 군사 기술을 해킹하여 북한의 군사 시스템을 마비시키고 2차 한국전쟁을 촉발시켰으며, 이를 계기로 남북한이 공동의 적에 맞서기 위해 전례 없는 동맹을 맺게 되었다."
 date: 2017-04-27
 
 # Featured image
