@@ -40,7 +40,7 @@ profiles:
   - icon: brands/github
     url: https://github.com/suminhan
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
+    url: https://www.linkedin.com/in/sumin-han-cs/
   - icon: academicons/google-scholar
     url: https://scholar.google.co.kr/citations?hl=en&user=68LgAZAAAAAJ
   - icon: academicons/orcid
