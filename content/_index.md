@@ -30,9 +30,7 @@ sections:
           size: cover
           position: center
           parallax: false
-    
-    design:
-      columns: '1'
+
   - block: collection
     id: blog
     content:
@@ -48,7 +46,7 @@ sections:
         author: ""
         category: ""
         tag: ""
-        exclude_featured: false
+        exclude_featured: true
         exclude_future: false
         exclude_past: false
         publication_type: ""
@@ -62,6 +60,8 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+
   - block: collection
     id: papers
     content:
