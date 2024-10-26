@@ -30,18 +30,18 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am a PhD candidate at KAIST, focusing on the intersection of urban data, AI, and traffic prediction.
+  # - block: markdown
+  #   content:
+  #     title: '📚 My Research'
+  #     subtitle: ''
+  #     text: |-
+  #       I am a PhD candidate at KAIST, focusing on the intersection of urban data, AI, and traffic prediction.
 
-        My research leverages human activity data to enhance spatiotemporal models, improving the accuracy of traffic and population forecasts. With a strong foundation in deep learning and graph convolutional networks, I aim to bridge the gap between urban infrastructure and data-driven insights. My work has been recognized through several publications, hackathons, and industry collaborations.
+  #       My research leverages human activity data to enhance spatiotemporal models, improving the accuracy of traffic and population forecasts. With a strong foundation in deep learning and graph convolutional networks, I aim to bridge the gap between urban infrastructure and data-driven insights. My work has been recognized through several publications, hackathons, and industry collaborations.
 
-        Feel free to reach out for research collaborations or innovative AI applications! 😃
+  #       Feel free to reach out for research collaborations or innovative AI applications! 😃
 
-        Contact: hsm6911 (at) kaist.ac.kr
+  #       Contact: hsm6911 (at) kaist.ac.kr
     
     design:
       columns: '1'
