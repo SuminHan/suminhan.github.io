@@ -30,21 +30,38 @@ sections:
           size: cover
           position: center
           parallax: false
-  # - block: markdown
-  #   content:
-  #     title: '📚 My Research'
-  #     subtitle: ''
-  #     text: |-
-  #       I am a PhD candidate at KAIST, focusing on the intersection of urban data, AI, and traffic prediction.
-
-  #       My research leverages human activity data to enhance spatiotemporal models, improving the accuracy of traffic and population forecasts. With a strong foundation in deep learning and graph convolutional networks, I aim to bridge the gap between urban infrastructure and data-driven insights. My work has been recognized through several publications, hackathons, and industry collaborations.
-
-  #       Feel free to reach out for research collaborations or innovative AI applications! 😃
-
-  #       Contact: hsm6911 (at) kaist.ac.kr
     
     design:
       columns: '1'
+  - block: collection
+    id: blog
+    content:
+      title: Recent Blog Post
+      subtitle: ''
+      text: ''
+      # Page type to display. E.g. post, talk, publication...
+      page_type: post
+      # Choose how many pages you would like to display (0 = all pages)
+      count: 5
+      # Filter on criteria
+      filters:
+        author: ""
+        category: ""
+        tag: ""
+        exclude_featured: false
+        exclude_future: false
+        exclude_past: false
+        publication_type: ""
+      # Choose how many pages you would like to offset by
+      offset: 0
+      # Page order: descending (desc) or ascending (asc) date.
+      order: desc
+    design:
+      # Choose a layout view
+      view: date-title-summary
+      # Reduce spacing
+      spacing:
+        padding: [0, 0, 0, 0]
   - block: collection
     id: papers
     content:
@@ -76,35 +93,6 @@ sections:
     design:
       view: article-grid
       columns: 1
-  - block: collection
-    id: blog
-    content:
-      title: Recent Blog Post
-      subtitle: ''
-      text: ''
-      # Page type to display. E.g. post, talk, publication...
-      page_type: post
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
-    design:
-      # Choose a layout view
-      view: date-title-summary
-      # Reduce spacing
-      spacing:
-        padding: [0, 0, 0, 0]
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
