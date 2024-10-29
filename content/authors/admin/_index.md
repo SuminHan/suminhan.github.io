@@ -65,6 +65,10 @@ education:
     institution: Korea Advanced Institute of Science and Technology
     date_start: 2013-03-01
     date_end: 2018-02-28
+  - area: School for Gifted Science Students
+    institution: Korea Science Academy of KAIST
+    date_start: 2009-03-01
+    date_end: 2013-02-28
    
 work:
   - position: Software Engineering Intern

@@ -30,21 +30,8 @@ sections:
           size: cover
           position: center
           parallax: false
-  - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: |-
-        I am a PhD candidate at KAIST, focusing on the intersection of urban data, AI, and traffic prediction.
 
-        My research leverages human activity data to enhance spatiotemporal models, improving the accuracy of traffic and population forecasts. With a strong foundation in deep learning and graph convolutional networks, I aim to bridge the gap between urban infrastructure and data-driven insights. My work has been recognized through several publications, hackathons, and industry collaborations.
 
-        Feel free to reach out for research collaborations or innovative AI applications! 😃
-
-        Contact: hsm6911 (at) kaist.ac.kr
-    
-    design:
-      columns: '1'
   - block: collection
     id: papers
     content:
@@ -56,26 +43,8 @@ sections:
     design:
       view: article-grid
       columns: 2
-  - block: collection
-    content:
-      title: Recent Publications
-      text: ""
-      filters:
-        folders:
-          - publication
-        exclude_featured: false
-    design:
-      view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      view: article-grid
-      columns: 1
+
+
   - block: collection
     id: blog
     content:
@@ -105,6 +74,29 @@ sections:
       # Reduce spacing
       spacing:
         padding: [0, 0, 0, 0]
+
+
+
+  - block: collection
+    content:
+      title: Recent Publications
+      text: ""
+      filters:
+        folders:
+          - publication
+        exclude_featured: false
+    design:
+      view: citation
+  - block: collection
+    id: talks
+    content:
+      title: Recent & Upcoming Talks
+      filters:
+        folders:
+          - event
+    design:
+      view: article-grid
+      columns: 1
   - block: cta-card
     demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
