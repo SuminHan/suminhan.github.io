@@ -11,8 +11,8 @@ address:
   region: KR
   country: South Korea
 
-summary: Context-Aware Trust Estimation for Realtime Crowdsensing Services in Vehicular Edge Networks
-abstract: "The situational awareness trust estimation device for real-time crowd-sensing services in a vehicular edge network according to an embodiment of the present invention may include: a trust estimator that estimates the trust value of a vehicle entering the coverage area based on historical data stored in the historical database and the I-sharing similarity list; and a video data processor that stores the trust value estimated by the trust estimator, identifies a trusted vehicle based on the stored trust value when a service request is made by the service requesting vehicle, sends a video data request message to the identified vehicle, and generates a bird's-eye view based on the received video data to provide to the service requesting vehicle."
+summary: 무엇을 해 먹고 살것인가
+abstract: "30살이 됨에따라 진로를 고민하면서 강의식으로 찍어본 영상"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
