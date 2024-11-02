@@ -1,7 +1,7 @@
 ---
-title: 2022 KAIST Tech Fair
+title: 무엇을 해 먹고 살것인가
 
-event: "무엇을 해 먹고 살것인가"
+event: "Fun Talk"
 event_url: https://youtu.be/fnSbhGpfVQI
 
 location: KAIST Class Room
