@@ -12,7 +12,7 @@ address:
   country: South Korea
 
 summary: 무엇을 해 먹고 살것인가
-abstract: "30살이 됨에따라 진로를 고민하면서 즉흥적으로 강의식으로 찍어본 영상입니다. 공식상의 발표내용이 아니어서 '돈이 최고다'와 같은 부적절한 표현이 있을 수는 있으나, 저는 돈을 소유하기 보다는 움직일 수 있는 능력을 힘이라고 생각합니다. 본 영상은 제 평소 생각을 공유드릴 수 있을 것 같아서 공개합니다."
+abstract: "30살이 됨에따라 진로를 고민하면서 즉흥적으로 강의식으로 찍어본 영상입니다..^^"
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
