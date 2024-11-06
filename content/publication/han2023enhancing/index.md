@@ -53,7 +53,7 @@ featured: true
 url_pdf: ''
 url_code: 'https://github.com/SuminHan/Traffic-UAGCRNTF'
 url_dataset: ''
-url_poster: ''
+url_poster: 'han2023enhancing-slides.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
