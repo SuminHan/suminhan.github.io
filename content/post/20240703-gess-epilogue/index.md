@@ -23,7 +23,7 @@ I have been involved with Computer Science since high school and have always wan
 
 ![Alt text](plug-and-play-pitching.png)
 
-▲ Pitching at [Plug and Play Tech Center](https://maps.app.goo.gl/k1xD1EmikVXVGwtq5) -- Judges [Daniel Idzkowski](https://www.linkedin.com/in/danielidzkowski/), [Kenneth Chew](https://www.linkedin.com/in/kenc338/), [Jay Eum](https://www.linkedin.com/in/jayeum/),  Jiyoung Lee, Tae Hea Nahm
+▲ Pitching at [Plug and Play Tech Center](https://maps.app.goo.gl/k1xD1EmikVXVGwtq5) -- Judges [Daniel Idzkowski](https://www.linkedin.com/in/danielidzkowski/), [Kenneth Chew](https://www.linkedin.com/in/kenc338/), [Jay Eum](https://www.linkedin.com/in/jayeum/),  Jiyoung Lee, [Tae Hea Nahm](https://www.linkedin.com/in/tnahm/)
 
 Even during my Ph.D., I consistently participated in hackathons and entrepreneurship-related events, nurturing my deep-seated dream of starting a business. My research also aimed at practical applications and potential collaborations with companies rather than merely producing academic papers. As my graduation approached, I learned about the GESS program, and without hesitation, I applied, feeling it was fate. I met passionate and kind team members like [Merey](https://www.linkedin.com/in/merey-makhmutova-73981a216/), [Alina](https://www.linkedin.com/in/alina-akhmetbek-b64105308/), [Sejun](https://www.linkedin.com/in/sejun-jung/), and Jaewoong. Through market research, we came up with the idea of a service to solve visa issues for immigrants. Through various interviews and mentoring sessions, we received feedback on effectively delivering our business ideas and pitches, ultimately winning the competition.
 
