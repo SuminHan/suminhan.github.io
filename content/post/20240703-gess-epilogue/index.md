@@ -42,7 +42,7 @@ It will be possible to create a similar Silicon Valley in Korea. Korea is curren
 
 ![Alt text](GESS-Broadcom.jpg)
 
-▲ Picture with CEO of [Broadcom](https://www.broadcom.com/),  [Hock Tan](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=35110&skey=keyword&sval=Hock+Tan&list_s_date=&list_e_date=&GotoPage=1).
+▲ Picture with CEO of [Broadcom](https://www.broadcom.com/),  [Hock Tan](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=35110&skey=keyword&sval=Hock+Tan&list_s_date=&list_e_date=&GotoPage=1) (Honorary Doctorates of KAIST).
 
 ---
 
