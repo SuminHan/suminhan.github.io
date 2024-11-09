@@ -31,11 +31,13 @@ In this process, our team members collaborated to propose ideas equally and prov
 
 ![Alt text](IMG_5144.JPEG)
 
+(Lecture from CEO of Phantom AI [Hyunggi Cho](https://news.mt.co.kr/mtview.php?no=2015120708040367115))
+
 It will be possible to create a similar Silicon Valley in Korea. Korea is currently facing various social issues, such as low birth rates and conflict between social groups of people, due to the industry centered on large corporations and the concentration in the metropolitan area. I think these are the side effects of bureaucratic academic elitism that hinder industrial development. However, unlike Japan or China, Korea is more open to accepting immigrants and cultures from overseas, similar to the United States. Just as Silicon Valley operates and contributes to the development of the U.S., thanks to excellent immigrants, I see the potential for a similar economic model in Korea. The GESS program at KAIST might be showcasing the future of Korean corporate culture. In this century, a future where excellent talents worldwide can work happily in Korea will come to fruition.  
 
 
 ![Alt text](GESS-Broadcom.jpg)
 
-[KAIST NEWS](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970)
+(Picture with CEO of Broadcom [Hock Tan](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=35110&skey=keyword&sval=Hock+Tan&list_s_date=&list_e_date=&GotoPage=1) )
 
-– Sumin Han
+[KAIST NEWS](https://news.kaist.ac.kr/newsen/html/news/?mode=V&mng_no=37970)
