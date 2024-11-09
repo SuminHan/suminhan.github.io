@@ -17,7 +17,7 @@ tags:
 
 
 
-The GESS program has been an incredible opportunity for me.
+The GESS program has been an incredible opportunity for me. 
 
 I have been involved with Computer Science since high school and have always wanted to become like Mark Zuckerberg of Facebook or Bill Gates of Microsoft, who dropped out of college and built giant companies. From the moment I entered KAIST as an undergraduate, I dreamed of starting a business through entrepreneurship programs and startup internships. However, the Korean corporate culture, the relationship between investors and entrepreneurs, and the activation of the stock and M & A markets were insufficient for the emergence of unicorn companies. As a result, even while pursuing my Ph.D., I always dreamed of creating such a startup.
 
