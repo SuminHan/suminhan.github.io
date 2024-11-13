@@ -29,7 +29,7 @@ Even during my Ph.D., I consistently participated in hackathons and entrepreneur
 
 ![Alt text](IMG_1040.JPG)
 
-▲ Mentoring Session with [Michelle Lane Messina](https://www.linkedin.com/in/michellemessina/) at [Plug and Play Tech Center](https://maps.app.goo.gl/k1xD1EmikVXVGwtq5).
+▲ Mentoring Session with [Michelle Lane Messina](https://www.linkedin.com/in/michellemessina/) at [KOTRA Silicon Valley](https://maps.app.goo.gl/6R6nnRUohZ4BjYVP7).
 
 In this process, our team members collaborated to propose ideas equally and provide better services for our clients through consensus. Although there were a few conflicts, they stemmed not from personal pride but from a genuine desire to lead the team in a better direction. If the team culture relies on a single person, even one with a Ph.D. or an esteemed career, to make all the decisions, it might increase accuracy but doesn't guarantee that person will always be correct. Additionally, it may put undue pressure on the person to avoid mistakes and hesitate to take risks. However, when everyone presents their ideas and makes decisions collectively, there is less fear of mistakes. The team can rely on each other and compensate for each other's shortcomings. I believe entrepreneurship involves harmoniously advancing finance, technology, and culture toward a more developed world and ideology. Therefore, as introduced by many Korean senior entrepreneurs, Silicon Valley is a rapidly improving utopia for startup enthusiasts, unlike anywhere in the world.
 
