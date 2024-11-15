@@ -1,5 +1,5 @@
 ---
-title: 'Enhancing Spatiotemporal Traffic Prediction through Urban Human Activity Analysis'
+title: '*Enhancing Spatiotemporal Traffic Prediction through Urban Human Activity Analysis'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -50,12 +50,12 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
+url_pdf: 'han2023enhancing.pdf'
 url_code: 'https://github.com/SuminHan/Traffic-UAGCRNTF'
 url_dataset: ''
-url_poster: 'han2023enhancing-slides.pdf'
+url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'han2023enhancing-slides.pdf'
 url_source: ''
 url_video: ''
 
@@ -79,8 +79,7 @@ image:
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
-
-slides: han2023enhancing
+# slides: han2023enhancing
 ---
 
 
