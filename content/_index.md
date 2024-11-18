@@ -36,18 +36,14 @@ sections:
     content:
       title: '📚 My Future Story'
       subtitle: ''
-      text: |-
-        I am a PhD candidate at KAIST 😃,
+      text: "
+        Daejeon is very nice, and art and science are growing harmoniously.
 
-        Among the various career paths options, I have chosen to build a startup.
+        I have chosen to build a startup among the various career path options.
 
-        Here, Daejeon is a very nice, well-constructed city, art and science are growing harmoniously.
+        If you want to discuss more about my idea, please read my [Essay](the-city-of-the-future-one.pdf)
 
-        The topic of My Ph.D. research was traffic prediction through human activity analysis.
-
-        If you want to discuss more about my idea, please read my (Essay)[the-city-of-the-future-one.pdf]
-
-        Contact me in this email: hsm6911 (at) gmail.com
+        Contact me in this email: hsm6911 (at) gmail.com"
     design:
       columns: '1'
 
