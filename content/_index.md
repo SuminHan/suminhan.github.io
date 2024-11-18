@@ -38,9 +38,7 @@ sections:
       subtitle: ''
       text: |-
         Daejeon is very nice, and art and science are growing harmoniously.
-
         I have chosen to build a startup among the various career path options.
-
         If you want to discuss my idea more, please read my <a href="the-city-of-the-future-one.pdf">Essay</a>.
 
         Contact me in this email: hsm6911 (at) gmail.com
