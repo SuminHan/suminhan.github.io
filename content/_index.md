@@ -44,7 +44,6 @@ sections:
         Contact with this email: hsm6911 (at) gmail.com
     
     design:
-      # columns: 1
       spacing:
         padding: [20, 20, 20, 20]
 
@@ -115,8 +114,6 @@ sections:
         folders:
           - event
     design:
-      view: article-grid
-      # columns: 1
       spacing:
         padding: [20, 20, 20, 20]
     
