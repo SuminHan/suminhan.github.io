@@ -33,18 +33,22 @@ profiles:
   - icon: at-symbol
     url: 'mailto:hsm6911@kaist.ac.kr'
     label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/smhanlab
-  - icon: brands/instagram
-    url: https://www.instagram.com/smhan.lab/
   - icon: brands/github
     url: https://github.com/suminhan
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sumin-han-cs/
+  - icon: brands/youtube
+    url: https://www.youtube.com/@ImmanuelSuminHan
   - icon: academicons/google-scholar
     url: https://scholar.google.co.kr/citations?hl=en&user=68LgAZAAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4071-8469
+
+#  - icon: brands/x
+#    url: https://twitter.com/smhanlab
+#  - icon: brands/instagram
+#    url: https://www.instagram.com/smhan.lab/
+
 
 interests:
   - Traffic Prediction
