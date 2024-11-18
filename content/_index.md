@@ -45,7 +45,7 @@ sections:
 
         The topic of My Ph.D. research was traffic prediction through human activity analysis.
 
-        If you want to discuss more about my idea, please read my [Essay](the-city-of-the-future-one.pdf)
+        If you want to discuss more about my idea, please read my (Essay)[the-city-of-the-future-one.pdf]
 
         Contact me in this email: hsm6911 (at) gmail.com
     design:
