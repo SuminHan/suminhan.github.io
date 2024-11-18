@@ -24,6 +24,6 @@ This dissertation aims to take a small but meaningful step toward that future.
 
 #### Additional Material
 
-* <a href="the-city-of-the-future-one-kor.pdf">Preface-KOR</a>
-* <a href="the-city-of-the-future-one.pdf">Preface-ENG</a>
+* <a href="/the-city-of-the-future-one-kor.pdf">Preface-KOR</a>
+* <a href="/the-city-of-the-future-one.pdf">Preface-ENG</a>
 
