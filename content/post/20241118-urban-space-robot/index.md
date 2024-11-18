@@ -21,3 +21,9 @@ Today, urbanization has brought numerous challenges. Highly concentrated urban p
 In the future, Urban Space Robots will connect more deeply with citizens' communications. Citizens will actively express the discomfort, anxiety, and dissatisfaction they experience in daily life, and AI will aggregate this information using big data collection devices to reflect it in urban development. This process will help reduce citizen unhappiness, foster mutual understanding of roles and perspectives, and enhance communication. We envision a future where, instead of a small group of leaders unilaterally guiding progress, every citizen contributes to creating a better city and community, collectively shaping the nation’s and humanity’s development. Through Urban Space Robots, we hope to promote communication and neighborly love, reminding citizens that leaders, too, are humans striving for the common good. 
 
 This dissertation aims to take a small but meaningful step toward that future.
+
+#### Additional Material
+
+* <a href="the-city-of-the-future-one-kor.pdf">Preface-KOR</a>
+* <a href="the-city-of-the-future-one.pdf">Preface-ENG</a>
+
