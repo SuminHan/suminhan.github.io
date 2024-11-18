@@ -1,7 +1,7 @@
 ---
 title: "Urban Space Robots: A Vision for Collaborative and Sustainable Urban Development"
 summary: "Urban Space Robots revolutionize urban planning and construction, fostering collaboration, sustainability, and citizen-driven city development."
-date: 2024-10-25
+date: 2024-10-30
 
 authors:
   - admin
