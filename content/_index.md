@@ -45,8 +45,8 @@ sections:
     
     design:
       columns: 1
-    spacing:
-      padding: [20, 20, 20, 20]
+      spacing:
+        padding: [20, 20, 20, 20]
 
 
 
@@ -117,7 +117,7 @@ sections:
     design:
       view: article-grid
       columns: 1
-    spacing:
-      padding: [20, 20, 20, 20]
+      spacing:
+        padding: [20, 20, 20, 20]
     
 ---
