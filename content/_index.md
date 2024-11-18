@@ -37,14 +37,14 @@ sections:
       title: '🚀 My Future Dream'
       subtitle: ''
       text: |-
-        Daejeon is a very nice city, where science and art are growing harmoniously.
+        Daejeon is a very nice city where science and art are growing harmoniously.
         I am dreaming of building a startup among the various career path options.
         If you want to discuss this with me, please read my <a href="./post/20241118-urban-space-robot/">essay</a>.
 
         Contact with this email: hsm6911 (at) gmail.com
     
     design:
-      columns: 1
+      # columns: 1
       spacing:
         padding: [20, 20, 20, 20]
 
@@ -116,7 +116,7 @@ sections:
           - event
     design:
       view: article-grid
-      columns: 1
+      # columns: 1
       spacing:
         padding: [20, 20, 20, 20]
     
