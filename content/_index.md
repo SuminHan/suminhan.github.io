@@ -44,6 +44,7 @@ sections:
         Contact with this email: hsm6911 (at) gmail.com
     
     design:
+      view: article
       spacing:
         padding: [20, 20, 20, 20]
 
@@ -114,6 +115,7 @@ sections:
         folders:
           - event
     design:
+      view: article
       spacing:
         padding: [20, 20, 20, 20]
     
