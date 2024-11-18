@@ -32,19 +32,19 @@ sections:
           parallax: false
 
 
-  - block: markdown
-    content:
-      title: '🚀 My Future Story'
-      subtitle: ''
-      text: |-
-        Daejeon is very nice, and science and art are growing harmoniously.
-        I have chosen to build a startup among the various career path options.
-        If you want to discuss this with me, please read my <a href="./post/20241118-urban-space-robot/">essay</a>.
+#  - block: markdown
+#    content:
+#      title: '🚀 My Future Story'
+#      subtitle: ''
+#      text: |-
+#        Daejeon is very nice, and science and art are growing harmoniously.
+#        I have chosen to build a startup among the various career path options.
+#        If you want to discuss this with me, please read my <a href="./post/20241118-urban-space-robot/">essay</a>.
 
-        Contact with this email: hsm6911 (at) gmail.com
+#        Contact with this email: hsm6911 (at) gmail.com
     
-    design:
-      columns: '1'
+#    design:
+#      columns: '1'
 
 
 
