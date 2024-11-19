@@ -32,20 +32,20 @@ sections:
           parallax: false
 
 
-  - block: markdown
-    content:
-      title: '🚀 My Future Dream'
-      subtitle: ''
-      text: |-
-        Daejeon is a very nice city where <a href="https://www.kaist.ac.kr/en/">SCIENCE</a> and <a href="https://www.instagram.com/fcd_ance/?__coig_challenged=1">ART</a> are growing harmoniously.
-        I am dreaming of building a startup among the various career path options, whose ultimate goal is described in this <a href="./post/20241118-urban-space-robot/">ESSAY</a>.
-    
-        If you want to have a talk or discuss, contact this email: hsm6911 (at) gmail.com
-    
-    design:
-      view: article
-      spacing:
-        padding: [20, 20, 20, 20]
+#  - block: markdown
+#    content:
+#      title: '🚀 My Future Dream'
+#      subtitle: ''
+#      text: |-
+#        Daejeon is a very nice city where <a href="https://www.kaist.ac.kr/en/">SCIENCE</a> and <a href="https://www.instagram.com/fcd_ance/?__coig_challenged=1">ART</a> are growing harmoniously.
+#        I am dreaming of building a startup among the various career path options, whose ultimate goal is described in this <a href="./post/20241118-urban-space-robot/">ESSAY</a>.
+#    
+#        If you want to have a talk or discuss, contact this email: hsm6911 (at) gmail.com
+#    
+#    design:
+#      view: article
+#      spacing:
+#        padding: [20, 20, 20, 20]
 
 
 
