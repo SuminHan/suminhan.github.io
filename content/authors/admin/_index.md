@@ -1,6 +1,6 @@
 ---
 # Display name
-title: (Immanuel-yet) Sumin Han
+title: Sumin Han (Immanuel) - Catechumen
 
 # Name pronunciation (optional)
 # name_pronunciation: Sumin Han
