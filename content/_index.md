@@ -38,7 +38,7 @@ sections:
       subtitle: ''
       text: |-
         Daejeon is a very nice city where <a href="https://www.kaist.ac.kr/en/">SCIENCE</a> and <a href="https://www.instagram.com/fcd_ance/?__coig_challenged=1">ART</a> are growing harmoniously.
-        I am dreaming of building a startup among the various career path options, whose ultimate goal is described in <a href="./post/20241118-urban-space-robot/">ESSAY</a>.
+        I am dreaming of building a startup among the various career path options, whose ultimate goal is described in this <a href="./post/20241118-urban-space-robot/">ESSAY</a>.
         I am full of imagination and believe there are countless ways individuals can contribute to building a better world.
     
         If you want to have a casual talk or discuss this, contact this email: hsm6911 (at) gmail.com
