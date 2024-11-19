@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sumin Han (Immanuel) - Catechumen
+title: Sumin Han (Immanuel)
 
 # Name pronunciation (optional)
 # name_pronunciation: Sumin Han
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate
+role: Ph.D. Candidate / Catechumen
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
