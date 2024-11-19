@@ -37,7 +37,7 @@ sections:
       title: '🚀 My Future Dream'
       subtitle: ''
       text: |-
-        Daejeon is a very nice city where <a href="https://www.kaist.ac.kr/en/">SCIENCE</a> and <a href="https://www.instagram.com/fcd_ance/?__coig_challenged=1">ART</a> are growing harmoniously.
+        Daejeon is a very nice city where <a href="https://www.kaist.ac.kr/en/">SCIENCE</a> and <a href="https://www.instagram.com/fcd_ance/?__coig_challenged=1">ART</a> are growing harmoniously!
         I am dreaming of building a startup among the various career path options.
         If you want to discuss this with me, please read my <a href="./post/20241118-urban-space-robot/">ESSAY</a>.
 
