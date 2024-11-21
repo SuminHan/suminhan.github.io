@@ -1,0 +1,125 @@
+---------- Forwarded message ---------
+보낸사람: CIKM'23 Long Papers <cikm2023-pc@easychair.org>
+Date: 2023년 8월 5일 (토) 오후 8:25
+Subject: CIKM'23 notification for paper 972
+To: Sumin Han <hsm6911@kaist.ac.kr>
+
+
+Dear Sumin Han,
+
+Congratulations! We are happy to inform you that your FULL paper:
+
+972 - "Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis"
+
+has been accepted for publication in the CIKM 2023 proceedings and for oral presentation at the conference. This year the review process was especially challenging with 1472 FULL paper submissions and only 354 accepted, which is an acceptance rate of 24%.
+
+Each paper was reviewed by independent reviewers, in addition to a meta-reviewer from our Senior Program Committee. SPCs made recommendations for each paper, based on their discussions with reviewers, and their own assessment of the paper. PC Chairs and SPC members held meetings to discuss borderline cases and any other paper when needed. Final acceptance decisions were made by PC Chairs after these meetings. Reviews and meta-reviews are included below. Please revise your papers according to the comments when you prepare the camera-ready version.
+
+Please note that camera-ready submission for FULL papers is due on August 18, which is a hard deadline. ACM rightsreview and prep instructions are available at https://www.scomminc.com/pp/acmsig/cikm2023.htm. Please expect two emails related to your final version: first to all authors with the deadline and above instructions, and another to the first contact/corresponding author only for the ACM rightsreview form. Attend to these items promptly and be sure your final versions are uploaded/submitted to Sheridan on or before the August 18 deadline or risk being dropped from the conference program. Further instructions on the presentation format, registration, and fees will be communicated later in a separate email.
+
+For student attendees, ACM SIGIR is pleased to offer Student Travel Grants for students presenting their accepted contributions at CIKM 2023. To be eligible, the student must: (1) be an ACM or SIGIR member, (2) be an author of an accepted contribution (long, short, demo, resource, applied track or doctoral consortium) and (3) be the one presenting the accepted contribution. These awards are competitive (i.e., not every applicant will receive a grant). We will particularly support students from underrepresented countries; and students who have not received a grant in the past. To be considered for a grant, the student must submit an application and their academic advisor must complete a statement of support (links below). Awards will cover the cost of registration. Moreover, for awardees attending in person, the grant will include a stipend towards travel and accommodation costs. The application period is set from August 5 to August 17, 2023 (AoE). The application and statemen
+t of support must be submitted before the end of the application period. You will receive an email approximately 10 days after the application period has closed, letting you know whether you were granted (or not) a SIGIR Student Travel Award. Please keep in mind that there are many factors influencing the decision process, and decisions are final. Please refrain from registering before you receive a notification either way, as there would be no refund of previously paid registration fees in the case of an award.
+
+Student Application: https://tudelft.fra1.qualtrics.com/jfe/form/SV_bE1BmLyJQeUqQRM?conference=CIKM2023
+
+Thank you again for submitting to CIKM 2023. We look forward to seeing you and your co-authors in October!
+
+Best regards,
+
+Min Zhang, Mounia Lalmas, and Rodrygo Santos
+Program Chairs, CIKM 2023
+
+SUBMISSION: 972
+TITLE: Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
+
+-------------------------  METAREVIEW  ------------------------
+RECOMMENDATION: accept
+TEXT:
+Strengths:
+-Adding urban human activity analysis to the task of predicting traffic
+-Solid experimental results
+-Merging different sources and types of data
+-Code and data publicly available
+
+
+Weaknesses:
+-Lack of a proper explanation and discussion on the choice of hyperparameters and hyperparameters tuning procedures
+-Lack of sufficient statistical analysis of the significance of the results
+-Limitations, potential biases, and generalizability should be discussed more in detail
+-Manuscript presentation could be improved
+
+
+The paper proposes a traffic prediction method based on graph convolution deep learning algorithms that leverage human activity frequency data from National Household Travel Survey to improve inference capabilities. The manuscript could benefit from a more detailed discussion on a few methodological steps, e.g., hyperparameters tuning, statistical significance, generalizability, limitations, and biases following reviewers’ comments. Despite that, the general contributions are clear and the methodology solid, the topic is relevant for the conference audience, and it has an obvious potential impact on urban traffic policies.
+
+
+
+----------------------- REVIEW 1 ---------------------
+SUBMISSION: 972
+TITLE: Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
+AUTHORS: Sumin Han, Youngjun Park, Minji Lee, Jisun An and Dongman Lee
+
+----------- Strengths -----------
+The paper proposes an improved traffic prediction method based on graph convolution deep learning algorithms. The authors leverage human activity frequency data to enhance the inference capability of a causal relationship between activity and traffic patterns. The experimental results show that the proposed method achieves state-of-the-art performance without introducing excessive computational overhead.
+----------- Weaknesses -----------
+(1) In the Evaluation Setup section (in page 5), the authors set the hyperparameters for the Transformer model, including the number of attention heads, key dimension, total dimension, and number of layers. The authors should provide a justification for their choice of these hyperparameters. This will help readers understand why the selected hyperparameters are appropriate for the proposed method.
+(2) It can be observed from Tables 2 and 4 that the SETF model performs well, and in some datasets, it even outperforms the UAGCRN and UAFCTF models proposed by the authors. Therefore, it is suggested that the authors perform hyperparameters tuning for the two proposed models to further determine their optimal hyperparameters settings.
+----------- Overall evaluation -----------
+SCORE: 1 (weak accept)
+----- TEXT:
+The paper proposes an improved traffic prediction method based on graph convolution deep learning algorithms. The authors leverage human activity frequency data to enhance the inference capability of a causal relationship between activity and traffic patterns. The experimental results show that the proposed method achieves state-of-the-art performance without introducing excessive computational overhead.
+There are some issues need to be improved.
+(1) In the Evaluation Setup section (in page 5), the authors set the hyperparameters for the Transformer model, including the number of attention heads, key dimension, total dimension, and number of layers. The authors should provide a justification for their choice of these hyperparameters. This will help readers understand why the selected hyperparameters are appropriate for the proposed method.
+(2) It can be observed from Tables 2 and 4 that the SETF model performs well, and in some datasets, it even outperforms the UAGCRN and UAFCTF models proposed by the authors. Therefore, it is suggested that the authors perform hyperparameters tuning for the two proposed models to further determine their optimal hyperparameters settings.
+----------- Best paper -----------
+SELECTION: no
+
+
+
+----------------------- REVIEW 2 ---------------------
+SUBMISSION: 972
+TITLE: Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
+AUTHORS: Sumin Han, Youngjun Park, Minji Lee, Jisun An and Dongman Lee
+
+----------- Strengths -----------
+-a. The proposed method introduces the incorporation of urban human activity analysis into traffic prediction models, which is a novel and innovative approach in the field.
+
+-b. The experimental results demonstrate that the proposed method outperforms previous approaches, achieving state-of-the-art performance on real-world datasets.
+
+-c. The methodology provides a comprehensive framework that utilizes various data sources, including social media and geographic data, which increases the workload but also enhances the accuracy of the predictions.
+
+-d. The article released the corresponding code and data to foster the research community
+----------- Weaknesses -----------
+- a. The experimental results might lack sufficient statistical analysis or significance testing to support the claimed state-of-the-art performance.
+- b. The paper could benefit from providing more extensive insights or discussions on the limitations, potential biases, or generalizability of the proposed method.
+- c.  A comparison with synthetic datasets or controlled experiments would provide further insight into the generalizability of the method.
+----------- Overall evaluation -----------
+SCORE: 1 (weak accept)
+----- TEXT:
+The research background of this article is focused on improving spatiotemporal traffic prediction through the analysis of urban human activity. Previous methods in traffic prediction often rely on historical traffic data and do not consider the influence of human activities such as events, festivals, and shopping patterns. This article proposes a research method that incorporates urban human activity analysis into traffic prediction models. The method utilizes various data sources, including social media, geographic data, and urban event calendars, to capture human activity patterns and their impact on traffic. The proposed method achieved accurate and reliable traffic prediction results, outperforming previous approaches. The performance of the method supports the goal of enhancing spatiotemporal traffic prediction by considering the influence of urban human activities.
+----------- Best paper -----------
+SELECTION: no
+
+
+
+----------------------- REVIEW 3 ---------------------
+SUBMISSION: 972
+TITLE: Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
+AUTHORS: Sumin Han, Youngjun Park, Minji Lee, Jisun An and Dongman Lee
+
+----------- Strengths -----------
+- Interesting topic addressed with current SOTA methods
+- Extensive comparisons with baselines
+- Promising results
+----------- Weaknesses -----------
+- The novelty and the contribution of this paper are quite limited.
+- The assumptions behind the architecture are sometimes left to the reader.
+- The quality of the paper in terms of organization and writing can be improved
+----------- Overall evaluation -----------
+SCORE: 1 (weak accept)
+----- TEXT:
+The paper proposes a traffic prediction method based on graph convolution deep learning leveraging human activity frequency data from NationalHousehold Travel Survey.
+
+The contribution seems quite limited and deeply discussed.
+The overall quality of the paper is low.
+----------- Best paper -----------
+SELECTION: no
