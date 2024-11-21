@@ -28,4 +28,4 @@ tags:
 
 #### 추가 자료
 
-* CS492 스타트업과 모바일 앱 개발 실습 ( [장병규](https://www.kedglobal.com/korean-games/newsView/ked202207050006), [류석영](https://ko.wikipedia.org/wiki/%EB%A5%98%EC%84%9D%EC%98%81) ) -- 최종 프로젝트 결과물: <https://github.com/SuminHan/UnityChan>
+* CS492 스타트업과 모바일 앱 개발 실습 ( [류석영](https://ko.wikipedia.org/wiki/%EB%A5%98%EC%84%9D%EC%98%81), [장병규](https://www.kedglobal.com/korean-games/newsView/ked202207050006) ) -- 최종 프로젝트 결과물: <https://github.com/SuminHan/UnityChan>
