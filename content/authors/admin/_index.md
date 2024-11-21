@@ -57,7 +57,7 @@ interests:
 
 education:
   - area: Ph.D. Computer Science
-    institution: Korea Advanced Institute of Science and Technology
+    institution: KAIST
     date_start: 2018-03-01
     date_end: 2025-02-28
     summary: |
@@ -66,7 +66,7 @@ education:
       text: 'Read Thesis'
       url: 'https://example.com'
   - area: B.S. Computer Science
-    institution: Korea Advanced Institute of Science and Technology
+    institution: KAIST
     date_start: 2013-03-01
     date_end: 2018-02-28
   - area: School for Gifted Science Students
