@@ -56,7 +56,7 @@ interests:
   - GeoSpatial AI
 
 education:
-  - area: Ph.D. School of Computing
+  - area: Ph.D. Computer Science
     institution: Korea Advanced Institute of Science and Technology
     date_start: 2018-03-01
     date_end: 2025-02-28
@@ -65,7 +65,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
-  - area: B.S. School of Computing
+  - area: B.S. Computer Science
     institution: Korea Advanced Institute of Science and Technology
     date_start: 2013-03-01
     date_end: 2018-02-28
