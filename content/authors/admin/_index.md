@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Candidate / 천주교예비신자
+role: Ph.D. / 천주교예비신자
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
