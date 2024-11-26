@@ -64,7 +64,7 @@ education:
       Traffic Prediction through Urban Human Activity
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
+      url: 'PhD_20241126_Sumin_Han_Defence_Traffic_Forecasting.pdf'
   - area: B.S. Computer Science
     institution: KAIST
     date_start: 2013-03-01
