@@ -61,7 +61,7 @@ education:
     date_start: 2018-03-01
     date_end: 2025-02-28
     summary: |
-      Traffic Prediction through Urban Human Activity
+      Enhancing Spatiotemporal Traffic Forecasting Models with Insights from Urban Human Activity
     button:
       text: 'Read Thesis'
       url: '/PhD_20241126_Sumin_Han_Defence_Traffic_Forecasting.pdf'
