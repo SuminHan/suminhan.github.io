@@ -13,22 +13,6 @@ Congratulations! We are happy to inform you that your FULL paper:
 
 has been accepted for publication in the CIKM 2023 proceedings and for oral presentation at the conference. This year the review process was especially challenging with 1472 FULL paper submissions and only 354 accepted, which is an acceptance rate of 24%.
 
-Each paper was reviewed by independent reviewers, in addition to a meta-reviewer from our Senior Program Committee. SPCs made recommendations for each paper, based on their discussions with reviewers, and their own assessment of the paper. PC Chairs and SPC members held meetings to discuss borderline cases and any other paper when needed. Final acceptance decisions were made by PC Chairs after these meetings. Reviews and meta-reviews are included below. Please revise your papers according to the comments when you prepare the camera-ready version.
-
-Please note that camera-ready submission for FULL papers is due on August 18, which is a hard deadline. ACM rightsreview and prep instructions are available at https://www.scomminc.com/pp/acmsig/cikm2023.htm. Please expect two emails related to your final version: first to all authors with the deadline and above instructions, and another to the first contact/corresponding author only for the ACM rightsreview form. Attend to these items promptly and be sure your final versions are uploaded/submitted to Sheridan on or before the August 18 deadline or risk being dropped from the conference program. Further instructions on the presentation format, registration, and fees will be communicated later in a separate email.
-
-For student attendees, ACM SIGIR is pleased to offer Student Travel Grants for students presenting their accepted contributions at CIKM 2023. To be eligible, the student must: (1) be an ACM or SIGIR member, (2) be an author of an accepted contribution (long, short, demo, resource, applied track or doctoral consortium) and (3) be the one presenting the accepted contribution. These awards are competitive (i.e., not every applicant will receive a grant). We will particularly support students from underrepresented countries; and students who have not received a grant in the past. To be considered for a grant, the student must submit an application and their academic advisor must complete a statement of support (links below). Awards will cover the cost of registration. Moreover, for awardees attending in person, the grant will include a stipend towards travel and accommodation costs. The application period is set from August 5 to August 17, 2023 (AoE). The application and statemen
-t of support must be submitted before the end of the application period. You will receive an email approximately 10 days after the application period has closed, letting you know whether you were granted (or not) a SIGIR Student Travel Award. Please keep in mind that there are many factors influencing the decision process, and decisions are final. Please refrain from registering before you receive a notification either way, as there would be no refund of previously paid registration fees in the case of an award.
-
-Student Application: https://tudelft.fra1.qualtrics.com/jfe/form/SV_bE1BmLyJQeUqQRM?conference=CIKM2023
-
-Thank you again for submitting to CIKM 2023. We look forward to seeing you and your co-authors in October!
-
-Best regards,
-
-Min Zhang, Mounia Lalmas, and Rodrygo Santos
-Program Chairs, CIKM 2023
-
 SUBMISSION: 972
 TITLE: Enhancing Spatio-temporal Traffic Prediction through Urban Human Activity Analysis
 
