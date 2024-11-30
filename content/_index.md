@@ -34,7 +34,7 @@ sections:
 
   - block: markdown
     content:
-      title: '🚀 Let's Make the Future Together'
+      title: "🚀 Let's Make the Future Together"
       subtitle: ''
       text: |-
         Found [SmartHillGames.com](https://smarthillgames.com/).
