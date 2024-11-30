@@ -37,10 +37,13 @@ sections:
       title: "🚀 Let's Make the Future Together"
       subtitle: ''
       text: |-
-        Found [SmartHillGames.com](https://smarthillgames.com/).
+        Found <a href="https://smarthillgames.com/">SmartHillGames.com</a>
+        
+        <ol>
+            <li>Research Contact: <a href="mailto:suminhan@kaist.ac.kr">suminhan@kaist.ac.kr</a></li>
+            <li>Business Contact: <a href="mailto:ceo@smarthillgames.com">ceo@smarthillgames.com</a></li>
+        </ol>
 
-        - Research Contact: suminhan@kaist.ac.kr
-        - Business Contact: ceo@smarthillgames.com
     
     
     design:
