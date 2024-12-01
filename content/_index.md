@@ -34,13 +34,13 @@ sections:
 
   - block: markdown
     content:
-      title: "🚀 Let's Make the Future Together"
+      title: "🚀 Toward Future"
       subtitle: ''
       text: |-
         Found <a href="https://smarthillgames.com/">SmartHillGames.com</a>
         
         <ol>
-            <li>Research Contact: <a href="mailto:suminhan@kaist.ac.kr">suminhan@kaist.ac.kr</a></li>
+            <li>Research Contact: <a href="mailto:suminkaist@gmail.com">suminkaist@gmail.com</a></li>
             <li>Business Contact: <a href="mailto:ceo@smarthillgames.com">ceo@smarthillgames.com</a></li>
         </ol>
 
