@@ -39,7 +39,7 @@ sections:
       title: "💡 AAAI-25 해커톤 참여 팀원 모집"
       subtitle: ''
       text: |-
-        국제최우수학회인 AAAI-25에서 산학협력 Virtual Hackathon을 진행한다고 합니다. 저는 Urban Digital Twin Game을 구상하고 있습니다. LLM-based Generative Agent나 Diffusion기반 Human Mobility Trajectory Simulation등을 결합하고 예술성있는 스토리를 입혀 기술력과 재미를 모두 갖춘 게임을 만들어 보려합니다. 팀참여에 관심있으신 분들은 제 CV(smhanlab.com) 을 확인해보셔도 좋고, 편하게 이메일(suminkaist@gmail.com)이나 메시지로 연락주세요!
+        국제최우수학회인 AAAI-25에서 산학협력 Virtual Hackathon을 진행한다고 합니다. 저는 Urban Digital Twin Game을 구상하고 있습니다. LLM-based Generative Agent나 Diffusion기반 Human Mobility Trajectory Simulation등을 결합하고 예술성있는 스토리를 입혀 기술력과 재미를 모두 갖춘 게임을 만들어 보려합니다. 팀참여에 관심있으신 분들은 제 CV(smhanlab.com) 을 확인해보셔도 좋고, 편하게 이메일(suminkaist at gmail.com)이나 메시지로 연락주세요!
         <ol>
             <li>AAAI-25 Hackathon Notice Homepage: <a href="https://aaai.org/conference/aaai/aaai-25/hackathon/">Link</a></li>
             <li>AAAI-25 Hackathon Notice Twitter: <a href="https://x.com/realaaai/status/1866090166047449440?s=46">Link</a></li>
