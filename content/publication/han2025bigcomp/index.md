@@ -80,3 +80,5 @@ image:
 #   Otherwise, set `slides: ""`.
 # slides: han2023enhancing
 ---
+
+For the floating population visualization, refer to <a href="https://render-seoul-population-viz.onrender.com/">https://render-seoul-population-viz.onrender.com/</a>.
