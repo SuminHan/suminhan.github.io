@@ -82,3 +82,5 @@ image:
 ---
 
 For the floating population visualization, refer to <a href="https://render-seoul-population-viz.onrender.com/">https://render-seoul-population-viz.onrender.com/</a>.
+
+<iframe width="685" height="1217" src="https://www.youtube.com/embed/gMXvLWcDBXc" title="서울의 심장박동 (LTE생활인구)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
