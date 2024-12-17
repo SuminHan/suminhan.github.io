@@ -64,7 +64,7 @@ education:
       Enhancing Spatiotemporal Traffic Forecasting Models with Insights from Urban Human Activity
     button:
       text: 'Read Thesis'
-      url: '/PhD_20241126_Sumin_Han_Defence_Traffic_Forecasting.pdf'
+      url: '/KAIST_PhD_Dissertation_Sumin_Han.pdf'
   - area: B.S. Computer Science
     institution: KAIST
     date_start: 2013-03-01
