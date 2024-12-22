@@ -49,22 +49,6 @@ sections:
       spacing:
         padding: [20, 20, 20, 20]
     
-  - block: markdown
-    content:
-      title: "🚀 Toward Future"
-      subtitle: ''
-      text: |-
-        Found <a href="https://smarthillgames.com/">SmartHillGames.com</a>
-        
-        <ol>
-            <li>Research Contact: <a href="mailto:suminkaist@gmail.com">suminkaist@gmail.com</a></li>
-            <li>Business Contact: <a href="mailto:ceo@smarthillgames.com">ceo@smarthillgames.com</a></li>
-        </ol>
-    design:
-      view: article
-      spacing:
-        padding: [20, 20, 20, 20]
-
 
 
 
