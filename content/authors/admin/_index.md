@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Pending / 천주교예비신자
+role: Ph.D. Pending / Catholic
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
