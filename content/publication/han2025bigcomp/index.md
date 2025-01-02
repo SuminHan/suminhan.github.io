@@ -49,7 +49,7 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'IEEEBigComp25_Urban_Vibrancy_Embedding_and_Application_on_Traffic_Prediction.pdf'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
