@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. Pending / Catholic
+role: Ph.D. / Catholic
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
