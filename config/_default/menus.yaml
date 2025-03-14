@@ -10,9 +10,9 @@ main:
   - name: Publications
     url: /publication_types/paper-conference/
     weight: 11
-  - name: Blog
-    url: /post
-    weight: 13
+#  - name: Blog
+#    url: /post
+#    weight: 13
   - name: Talks
     url: /#talks
     weight: 12
