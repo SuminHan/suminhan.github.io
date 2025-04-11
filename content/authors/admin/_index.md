@@ -33,6 +33,8 @@ profiles:
   - icon: at-symbol
     url: 'mailto:suminkaist@gmail.com'
     label: E-mail Me
+  - icon: brands/instagram
+    url: https://www.instagram.com/smhan.lab/
   - icon: brands/github
     url: https://github.com/suminhan
   - icon: brands/linkedin
@@ -45,8 +47,6 @@ profiles:
     url: https://orcid.org/0000-0002-4071-8469
   - icon: brands/x
     url: https://twitter.com/smhanlab
-  - icon: brands/instagram
-    url: https://www.instagram.com/smhan.lab/
 
 
 interests:
