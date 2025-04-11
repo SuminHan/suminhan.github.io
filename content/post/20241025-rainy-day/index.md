@@ -1,7 +1,7 @@
 ---
 title: "Walking Through the Rain: How Startups and Life Demand Courage Beyond Comfort"
 summary: "Sometimes, just like walking through a storm without an umbrella, navigating the uncertain path of a startup requires us to shed the fears imposed by society and trust our innate ability to move forward despite the obstacles."
-date: 2024-10-25
+date: 2017-10-25
 
 authors:
   - admin
