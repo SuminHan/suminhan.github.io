@@ -159,4 +159,4 @@ languages:
 
 **Dr. Sumin Han**, Ph.D. from KAIST, is an AI researcher specializing in **deep learning** and **spatiotemporal prediction**, with a focus on **urban human activity analysis** for real-time traffic forecasting. Skilled in **Python, C/C++, and Java**, Sumin has published at top international conferences, won awards for **AI-driven innovations**, and holds patents on predictive modeling. Recognized in multiple **hackathons and competitions**, they are committed to **bridging technology and society** through impactful AI solutions for urban planning and smart cities.
 
-E-mail: suminkaist@gmail.com, Instagram: <a href="https://www.instagram.com/smhan.lab">@smhan.lab</a>
+E-mail: suminkaist@gmail.com, Instagram: <a href="https://www.instagram.com/smhan.lab" target="_blank">@smhan.lab</a>
