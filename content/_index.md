@@ -37,9 +37,9 @@ sections:
       title: '📚 My Course'
       subtitle: ''
       text: |-
-        I'm currently creating a free online course to help startups and small business owners build their own websites. 
-        The course includes practical tips and guidance for getting started.  
-        
+        AIBuildFlow -- https://www.aibuildflow.com/
+        I'm creating a free online course to help startups and small business owners build websites. 
+        The course includes practical tips and guidance for getting started.
         Interested in collaborating? Feel free to reach out! 😃
     design:
       columns: '1'
