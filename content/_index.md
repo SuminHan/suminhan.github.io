@@ -34,13 +34,10 @@ sections:
 
   - block: markdown
     content:
-      title: '📚 My Course'
+      title: '📚 [My Course](www.aibuildflow.com)'
       subtitle: ''
-      text: |-
-        I'm creating a free online course to help startups and small business owners build websites.
-    
-        "www.AIBuildFlow.com"
-    
+      text: |- www.aibuildflow.com
+        I'm creating a free online course to help startups and small business owners build websites.    
         The course includes practical tips and guidance for getting started.  
         Interested in collaborating? Feel free to reach out! 😃
     design:
