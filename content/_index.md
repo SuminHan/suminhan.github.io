@@ -37,7 +37,7 @@ sections:
       title: '📚 My Course'
       subtitle: ''
       text: |-
-        🌐 www.aibuildflow.com
+        🌐 `www.aibuildflow.com`
   
         I'm offering a free online course designed to help startups and small business owners create their own websites.  
         It covers hands-on tips and practical guidance to get you up and running.  
