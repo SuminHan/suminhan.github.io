@@ -38,16 +38,21 @@ sections:
       title: '📚 My Course'
       subtitle: ''
       text: |-
-        🌐 www (dot) aibuildflow (dot) com
-        <a class="github-button" href="https://www.aibuildflow.com/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">https://www.aibuildflow.com/</a>
-
+        🌐 AIBuildFlow
   
         I'm offering a free online course designed to help startups and small business owners create their own websites.  
         It covers hands-on tips and practical guidance to get you up and running.  
         Interested in collaborating or learning more? Feel free to reach out! 😃
+      button:
+        text: Get Started
+        url: https://www.aibuildflow.com/
     design:
       columns: '1'
+    
 
+
+
+    
 
   - block: collection
     id: news
