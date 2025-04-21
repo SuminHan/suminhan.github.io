@@ -39,6 +39,8 @@ sections:
       subtitle: ''
       text: |-
         🌐 www (dot) aibuildflow (dot) com
+        <a class="github-button" href="https://www.aibuildflow.com/" data-color-scheme="no-preference: light; light: light; dark: dark;" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star HugoBlox/hugo-blox-builder on GitHub">https://www.aibuildflow.com/</a>
+
   
         I'm offering a free online course designed to help startups and small business owners create their own websites.  
         It covers hands-on tips and practical guidance to get you up and running.  
@@ -54,7 +56,7 @@ sections:
       subtitle: ''
       text: ''
       # Page type to display. E.g. post, talk, publication...
-      page_type: post
+      page_type: news
       # Choose how many pages you would like to display (0 = all pages)
       count: 5
       # Filter on criteria
