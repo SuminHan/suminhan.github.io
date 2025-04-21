@@ -37,7 +37,7 @@ sections:
       title: 🌐 AIBuildFlow.com
       text: |-
         I am offering a free online course designed to help startups and small business owners create their own websites.  
-        It covers hands-on tips and practical guidance to get you up and running.  
+        It covers hands-on tips and practical guidance to get you up and running. 
         Interested in collaborating or learning more? Feel free to reach out! 😃
       button:
         text: Get Started
