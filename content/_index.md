@@ -41,7 +41,7 @@ sections:
         Interested in collaborating or learning more? Feel free to reach out! 😃
       button:
         text: Get Started
-        url: [https://hugoblox.com/templates/](https://www.aibuildflow.com/)
+        url: https://www.aibuildflow.com/
     design:
       card:
         # Card background color (CSS class)
