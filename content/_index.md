@@ -32,26 +32,23 @@ sections:
           parallax: false
 
 
-
-  - block: markdown
+  - block: cta-card
+    demo: true # Only display this section in the Hugo Blox Builder demo site
     content:
-      title: '📚 My Course'
-      subtitle: ''
+      title: 🌐 AIBuildFlow.com
       text: |-
-        🌐 AIBuildFlow
-  
         I'm offering a free online course designed to help startups and small business owners create their own websites.  
         It covers hands-on tips and practical guidance to get you up and running.  
         Interested in collaborating or learning more? Feel free to reach out! 😃
       button:
         text: Get Started
-        url: https://www.aibuildflow.com/
+        url: [https://hugoblox.com/templates/](https://www.aibuildflow.com/)
     design:
-      columns: '1'
+      card:
+        # Card background color (CSS class)
+        css_class: "bg-primary-700"
+        css_style: ""
     
-
-
-
     
 
   - block: collection
