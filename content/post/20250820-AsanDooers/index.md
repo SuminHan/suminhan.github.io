@@ -22,4 +22,9 @@ This achievement carries personal meaning for me as well. During my Ph.D. studie
 
 We have also witnessed **small but meaningful changes**. More than *50 tenants* who signed leases through our service are now actively sharing updates and supporting each other in our community chat room. Seeing this gave me confidence that our CEO’s sincere **customer-first philosophy** is being realized.  
 
+![Alt text](team-page.png)
+
+▲ Our Team (Divercity House)
+
 We are still at the beginning, but we aim to grow into a fast-scaling startup. My gratitude goes to **CEO Dong Soo LEE, designer JeongMin Sohn, and global marketer Vicent Segura Bilekera** for their dedication. Special thanks as well to **Asan Doers** for organizing this invaluable opportunity and to the **UD Impact coaches** for their guidance and support. ^^  
+
