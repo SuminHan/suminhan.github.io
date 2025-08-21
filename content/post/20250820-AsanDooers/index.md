@@ -14,9 +14,9 @@ The Divercity House team has been selected as one of the **seven finalist teams*
 
 Over the past two months, we have been commuting every Friday between **Busan** and **Seoul MARU180**, refining both our development and marketing. During the IR pitching, rather than focusing solely on technical features, we highlighted our mission: **to build a fair and trustworthy housing and settlement solution for foreigners**. This focus allowed us to deliver not just technology, but also the problem awareness and values behind our work, which resonated with many.  
 
-![Alt text](demo-day.jfif)
+![Alt text](1755693062623.jfif)
 
-▲ IR Pitching Session at Chung Ju-Young Startup Competition
+▲ Prize of IR Pitching Session at Chung Ju-Young Startup Competition
 
 This achievement carries personal meaning for me as well. During my Ph.D. studies at KAIST, I researched **urban human mobility AI**, always dreaming of one day building a startup that could analyze real customer data and generate meaningful value. Now, that dream is gradually becoming reality.  
 
