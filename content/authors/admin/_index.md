@@ -74,6 +74,14 @@ education:
     date_end: 2013-02-28
    
 work:
+  - position: Chief Technology Officer
+    company_name: Divercity House Inc.
+    company_url: 'https://divercityhouse.com/'
+    date_start: 2025-07-01
+    summary: |2-
+      Responsibilities include:
+      - [Divercity House Map Platform](https://map.divercityhouse.com/) Backend & Frontend Development
+      - Divercity House [Android](https://play.google.com/store/apps/details?id=com.divercity.house&pli=1)/iOS Application Development
   - position: Software Engineering Intern
     company_name: Satrec Initiative Co., Ltd.
     company_url: 'https://www.satreci.com/'
