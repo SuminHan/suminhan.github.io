@@ -30,23 +30,6 @@ sections:
           size: cover
           position: center
           parallax: false
-
-
-  - block: cta-card
-    content:
-      title: 🌐 AIBuildFlow.com
-      text: |-
-        I am offering a free online course designed to help startups and small business owners create their own websites.  
-        It covers hands-on tips and practical guidance to get you up and running. 
-        Interested in collaborating or learning more? Feel free to reach out! 😃
-      button:
-        text: Get Started
-        url: https://www.aibuildflow.com/
-    design:
-      card:
-        # Card background color (CSS class)
-        css_class: "bg-primary-700"
-        css_style: ""
     
     
 
