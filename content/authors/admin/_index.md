@@ -87,6 +87,7 @@ work:
     company_name: Divercity House Inc.
     company_url: 'https://divercityhouse.com/'
     date_start: 2025-07-01
+    date_end: 2026-04-17
     summary: |2-
       Responsibilities include:
       - Map Platform Backend & Frontend Development
