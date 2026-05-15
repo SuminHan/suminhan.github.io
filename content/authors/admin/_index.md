@@ -74,6 +74,15 @@ education:
     date_end: 2013-02-28
    
 work:
+  - position: Applied AI Technical Engineer (Full Stack)
+    company_name: Skelter Labs
+    company_url: 'https://www.skelterlabs.com/'
+    date_start: 2026-04-21
+    summary: |2-
+      Responsibilities include:
+      - Bella AI Agent Platform Development (LangFlow custom components for RAG, Neo4j GraphRAG, Korean embedding, Langfuse tracing)
+      - AgentGateway / MCP Tool Management (MCP backend registration, Cedar-based Authorization, multi-tenant path-prefix routing)
+      - LLM Observability & Internal Tooling (lightweight LiteLLM team-usage UI, Langfuse OSS adoption, Keycloak/Istio integration)
   - position: Chief Technology Officer
     company_name: Divercity House Inc.
     company_url: 'https://divercityhouse.com/'
@@ -168,3 +177,4 @@ languages:
 **Dr. Sumin Han**, Ph.D. from KAIST, is an AI researcher specializing in **deep learning** and **spatiotemporal prediction**, with a focus on **urban human activity analysis** for real-time traffic forecasting. Skilled in **Python, C/C++, and Java**, Sumin has published at top international conferences, won awards for **AI-driven innovations**, and holds patents on predictive modeling. Recognized in multiple **hackathons and competitions**, they are committed to **bridging technology and society** through impactful AI solutions for urban planning and smart cities.
 
 E-mail: suminkaist@gmail.com, Instagram: <a href="https://www.instagram.com/smhan.lab" target="_blank">@smhan.lab</a>
+,
