@@ -11,7 +11,7 @@ last_name: Han
 
 # Status emoji
 status:
-  icon: 🎓
+  icon: 📖
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,8 @@ role: Ph.D. / Catholic
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Korea Science Academy of KAIST
-    url: https://www.ksa.hs.kr/
+  - name: KAIST
+    url: https://kaist.ac.kr/en/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -74,12 +74,6 @@ education:
     date_end: 2013-02-28
    
 work:
-  - position: Faculty Member, Computer Science
-    company_name: Korea Science Academy of KAIST
-    company_url: 'https://www.ksa.hs.kr/'
-    date_start: 2026-08-01
-    summary: |2-
-      Full-time faculty member (KAIST-affiliated gifted science high school).
   - position: Applied AI Technical Engineer (Full Stack)
     company_name: Skelter Labs
     company_url: 'https://www.skelterlabs.com/'
@@ -87,10 +81,8 @@ work:
     date_end: 2026-07-31
     summary: |2-
       Responsibilities include:
-      - Forward-Deployed Advisory for a Financial AI Initiative (technical advisory and service architecture design for an AI compliance initiative at a major Korean financial group, in collaboration with a global consulting firm)
-      - Bella AI Agent Platform Development (LangFlow custom components for RAG, Neo4j GraphRAG, Korean embedding, Langfuse tracing)
-      - AgentGateway / MCP Tool Management (MCP backend registration, Cedar-based Authorization, multi-tenant path-prefix routing)
-      - LLM Observability & Internal Tooling (lightweight LiteLLM team-usage UI, Langfuse OSS adoption, Keycloak/Istio integration)
+      - Forward-Deployed Advisory for a Financial AI Initiative — technical advisory and service architecture design for an AI compliance initiative at a major Korean financial group, in collaboration with a global consulting firm
+      - Bella AI Agent Platform Development — LangFlow custom components (RAG, GraphRAG, Korean embedding), AgentGateway/MCP tool management, and LLM observability tooling (LiteLLM, Langfuse, Keycloak/Istio)
   - position: Chief Technology Officer
     company_name: Divercity House Inc.
     company_url: 'https://divercityhouse.com/'
