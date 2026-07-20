@@ -144,10 +144,14 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
+      - name: Chess
+        description: ''
+        percent: 90
+        icon: chess-knight
       - name: Cooking
         description: ''
         percent: 80
-        icon: chef-hat
+        icon: cooking-pot
 
 languages:
   - name: English
