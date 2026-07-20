@@ -74,7 +74,7 @@ education:
     date_end: 2013-02-28
    
 work:
-  - position: Faculty Member
+  - position: Faculty Member, Computer Science
     company_name: Korea Science Academy of KAIST
     company_url: 'https://www.ksa.hs.kr/'
     date_start: 2026-08-01
@@ -87,6 +87,7 @@ work:
     date_end: 2026-07-31
     summary: |2-
       Responsibilities include:
+      - Forward-Deployed Advisory for a Financial AI Initiative (technical advisory and service architecture design for an AI compliance initiative at a major Korean financial group, in collaboration with a global consulting firm)
       - Bella AI Agent Platform Development (LangFlow custom components for RAG, Neo4j GraphRAG, Korean embedding, Langfuse tracing)
       - AgentGateway / MCP Tool Management (MCP backend registration, Cedar-based Authorization, multi-tenant path-prefix routing)
       - LLM Observability & Internal Tooling (lightweight LiteLLM team-usage UI, Langfuse OSS adoption, Keycloak/Istio integration)
