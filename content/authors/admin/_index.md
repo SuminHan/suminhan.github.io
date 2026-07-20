@@ -11,7 +11,7 @@ last_name: Han
 
 # Status emoji
 status:
-  icon: 🔥
+  icon: 🎓
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,8 @@ role: Ph.D. / Catholic
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: KAIST
-    url: https://kaist.ac.kr/en/
+  - name: Korea Science Academy of KAIST
+    url: https://www.ksa.hs.kr/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -74,10 +74,17 @@ education:
     date_end: 2013-02-28
    
 work:
+  - position: Faculty Member
+    company_name: Korea Science Academy of KAIST
+    company_url: 'https://www.ksa.hs.kr/'
+    date_start: 2026-08-01
+    summary: |2-
+      Full-time faculty member (KAIST-affiliated gifted science high school).
   - position: Applied AI Technical Engineer (Full Stack)
     company_name: Skelter Labs
     company_url: 'https://www.skelterlabs.com/'
     date_start: 2026-04-21
+    date_end: 2026-07-31
     summary: |2-
       Responsibilities include:
       - Bella AI Agent Platform Development (LangFlow custom components for RAG, Neo4j GraphRAG, Korean embedding, Langfuse tracing)
@@ -96,8 +103,8 @@ work:
     company_name: Satrec Initiative Co., Ltd.
     company_url: 'https://www.satreci.com/'
     company_logo: 'https://www.satreci.com/theme/responsive_satreci/include/img/top_logo_c.svg'
-    date_start: 2017-08-31
-    date_end: 2017-07-01
+    date_start: 2017-07-01
+    date_end: 2017-08-31
     summary: |2-
       Responsibilities include:
       - Parallel Computing Framework Design  (Docker, Slurm, Ganglia)
@@ -114,36 +121,20 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Technical Skills
+  - name: Research Expertise
     items:
-      - name: Tensorflow
+      - name: Deep Learning
         description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Pytorch
+        icon: cpu-chip
+      - name: Spatiotemporal Modeling
         description: ''
-        percent: 85
-        icon: code-bracket
-      - name: C/C++
+        icon: map
+      - name: Graph Neural Networks
         description: ''
-        percent: 80
-        icon: code-bracket
-      - name: Python
+        icon: share
+      - name: LLM & AI Agents
         description: ''
-        percent: 90
-        icon: code-bracket
-      - name: Data Science
-        description: ''
-        percent: 90
-        icon: chart-bar
-      - name: MongoDB
-        description: ''
-        percent: 70
-        icon: circle-stack
-      - name: SQL
-        description: ''
-        percent: 70
-        icon: circle-stack
+        icon: chat-bubble-left-right
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -152,10 +143,6 @@ skills:
         description: ''
         percent: 60
         icon: person-simple-walk
-      - name: Chess
-        description: ''
-        percent: chess-knight
-        icon: cat
       - name: Cooking
         description: ''
         percent: 80
@@ -175,7 +162,6 @@ languages:
 
 ## About Me
 
-**Dr. Sumin Han**, Ph.D. from KAIST, is an AI researcher specializing in **deep learning** and **spatiotemporal prediction**, with a focus on **urban human activity analysis** for real-time traffic forecasting. Skilled in **Python, C/C++, and Java**, Sumin has published at top international conferences, won awards for **AI-driven innovations**, and holds patents on predictive modeling. Recognized in multiple **hackathons and competitions**, they are committed to **bridging technology and society** through impactful AI solutions for urban planning and smart cities.
+**Dr. Sumin Han**, Ph.D. from KAIST, is an AI researcher specializing in **deep learning** and **spatiotemporal prediction**, with a focus on **urban human activity analysis** for real-time traffic forecasting. He has published at top international conferences, won awards for **AI-driven innovations**, and holds patents on predictive modeling. Recognized in multiple **hackathons and competitions**, he is committed to **bridging technology and society** through impactful AI solutions for urban planning and smart cities.
 
 E-mail: suminkaist@gmail.com, Instagram: <a href="https://www.instagram.com/smhan.lab" target="_blank">@smhan.lab</a>
-,
