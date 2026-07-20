@@ -23,3 +23,7 @@ We also witnessed **small but meaningful changes**. More than *50 tenants* who s
 ▲ Our Team (Divercity House)
 
 My gratitude goes to **CEO Dong Soo Lee, designer JeongMin Sohn, and global marketer Vicent Segura Bilekera** for their dedication. Special thanks as well to **Asan Doers** for organizing this invaluable opportunity, and to the **UD Impact coaches** for their guidance and support.
+
+---
+
+*Update (2026): This post reflects my involvement at the time it was written. I have since joined the Korea Science Academy of KAIST as faculty and am no longer involved in the operations of Divercity House.*
