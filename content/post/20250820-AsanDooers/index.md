@@ -2,6 +2,7 @@
 title: "Divercity House Selected as Finalist in the Chung Ju-Young Startup Competition"
 summary: "Our team at Divercity House has been selected as one of the seven finalists in the Chung Ju-Young Startup Competition Demo Day, marking an important milestone in our journey to create a fair and trustworthy housing and settlement solution for foreigners in Korea."
 date: 2025-08-21
+type: news
 authors:
   - admin
 tags:
