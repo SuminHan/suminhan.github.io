@@ -32,7 +32,16 @@ sections:
           parallax: false
     
     
-
+  - block: collection
+    id: news
+    content:
+      title: News
+      page_type: post
+      count: 5
+      filters:
+        category: News
+    design:
+      view: article-grid
 
   - block: collection
     id: papers
