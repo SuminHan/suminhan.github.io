@@ -176,6 +176,6 @@ languages:
 
 He holds a Ph.D. in Computer Science from KAIST, where his dissertation developed **spatiotemporal traffic forecasting models informed by urban human activity**. His research spans **deep learning**, **graph neural networks**, and **geospatial AI**. Before joining KSA, he worked on applied AI for the financial sector and on LLM agent platforms in industry.
 
-His teaching aims at a simple conviction: that the education capable of producing Korea's first Nobel laureate in the sciences begins here.
+He teaches on the conviction that what happens in a gifted student's first encounter with real research shapes everything that follows.
 
 E-mail: suminhan@ksa.kaist.hs.kr
