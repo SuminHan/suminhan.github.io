@@ -1,6 +1,6 @@
 ---
 title: "Joining Korea Science Academy of KAIST as Faculty"
-summary: "Starting a new chapter as full-time faculty at Korea Science Academy of KAIST, after stints as CTO at Divercity House and Forward-Deployed Engineer at Skelter Labs — and turning toward the question of how to teach in the age of AI."
+summary: "After a year spent between a startup and a client site, I've joined Korea Science Academy of KAIST as faculty — and turned toward a question I don't yet have an answer to: what is worth teaching once AI can write the answer?"
 date: 2026-08-03
 type: news
 
@@ -11,16 +11,16 @@ tags:
   - News
 ---
 
-Since August 1, I've joined Korea Science Academy of KAIST (KSA) as full-time faculty in the Dept. of Mathematics & Computer Science.
+On August 1, I joined Korea Science Academy of KAIST (KSA) as full-time faculty in the Department of Mathematics & Computer Science.
 
-For about ten months before that, starting last summer, I served as CTO at Divercity House, leading full-stack web and app development — work that was recognized with an award at the Asan Nanum Foundation's Chung Ju-yung Startup Competition. For the past three months, I worked as a Forward-Deployed Engineer at Skelter Labs, embedded alongside a global consulting firm at a client site to shape the service design and use cases for an AX (AI transformation) project, and in the early stages, contributed in a small way to building the Bella platform.
+The past year took me through two rather different worlds. From last summer, I spent roughly ten months as CTO at Divercity House, leading full-stack web and app development — work that picked up an award at the Asan Nanum Foundation's Chung Ju-yung Startup Competition along the way. For the three months after that, I worked as a Forward-Deployed Engineer at Skelter Labs, embedded at a client site alongside a global consulting firm, shaping the service design and use cases for an AX project. In the early days there, I also contributed in a small way to building the Bella platform.
 
-I enjoyed solving real-world problems, but now I want to focus on bringing AI education to students.
+Solving real problems had its own pleasure. But what I want to do now is teach — to bring AI education to students.
 
-Education right now feels like it's going through a real period of confusion. Assign a problem, and AI solves it instantly — so assignments no longer distinguish who actually understands the material, and we're back to asking, fundamentally, what a degree is even supposed to guarantee.
+Education feels like it is passing through a period of genuine confusion. Set an assignment and AI will finish it before the student has properly begun, which leaves the assignment measuring nothing at all. We are back to a harder question: what, exactly, is a degree meant to guarantee?
 
-Still, even if AI writes out the answer for you, two things remain squarely in human hands: knowing what question to ask, and being able to judge whether the answer you got is actually right. The first is something only someone who has sat with a problem for a long time can do. The second belongs only to someone who has traced the underlying principles by their own hand.
+And yet two things survive, even when the machine writes the answer. Knowing which question to ask. And knowing whether the answer in front of you is right. The first belongs to someone who has sat with a problem long enough to feel its shape. The second belongs to someone who has traced the principle through by hand.
 
-How to teach both of those is something I plan to keep thinking about going forward, here in Busan. It's a question without a settled answer yet, so I expect plenty of trial and error along the way. I'd love to hear from anyone working in education, or wrestling with similar questions — please feel free to reach out anytime.
+How to teach both is what I'll be thinking about in Busan. It's a question without a settled answer, and I expect a fair amount of trial and error. If you work in education, or find yourself circling the same question, I'd be glad to hear from you — please do reach out.
 
-Thank you to everyone who taught me so much while we worked together. I'll keep working hard in this new role.
+To everyone who taught me so much along the way: thank you. I'll give this new role my best.
