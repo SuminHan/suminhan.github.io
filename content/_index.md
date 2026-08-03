@@ -38,7 +38,7 @@ sections:
       page_type: news
       count: 5
     design:
-      view: date-title-summary
+      view: card
 
   - block: collection
     id: papers

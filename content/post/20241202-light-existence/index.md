@@ -1,6 +1,6 @@
 ---
-title: "참을 수 없는 존재의 가벼움과 사랑의 본질"
-summary: "사랑과 삶의 본질은 각자의 결핍과 희망을 채우는 주관적 투영이자, 가벼움 속에서도 존재의 의미를 찾아가는 과정이다."
+title: "The Unbearable Lightness of Being and the Nature of Love"
+summary: "The essence of love and life is a subjective projection that fills each person's own lack and hope — a process of finding meaning in existence even within its lightness."
 date: 2015-10-31
 
 # Featured image
@@ -17,66 +17,66 @@ tags:
 
 # 1
 
-삶이 아무리 잔혹하고 아름답고 찬란하다 할지라도, 그 잔혹함과 아름다움과 찬란함조차 어쩌면 무의미한 것인지 모른다.
+However cruel, however beautiful, however radiant life may be, even that cruelty, that beauty, that radiance may in the end be meaningless.
 
-니체는 우리에게 어떤 대답을 해 줄까?
+What answer would Nietzsche give us?
 
-테레자는 토마시에게 집착했다. 사랑이 힘에의 의지라면, 테레자는 토마시의 강함에 이끌려 그의 마음을 얻고 싶었을 것이다. 그녀는 늘 위로 오르려는 열망을 품고 있었으니. 테레자가 토마시의 바람기에도 그의 곁을 떠나지 못한 것은, 어쩌면 그를 이기기 위해, 그의 강함을 넘어서는 힘을 스스로 얻기 위함이었을지 모른다. 끝내 그가 한 마리 토끼처럼 온순해진 것은 테레자의 승리를 의미하는지도 모른다.
+Tereza was obsessed with Tomas. If love is a will to power, then Tereza must have been drawn to Tomas's strength, wanting to win his heart. She always carried within her a longing to rise upward. That she could not leave his side even through his infidelities may have been, in its own way, an attempt to defeat him — to gain, for herself, a strength that surpassed his. That he finally became as gentle as a rabbit may well mean that Tereza had won.
 
-사랑에서의 승자란 마음을 얻는 쪽을 뜻한다. 마음을 주는 쪽은 패자의 자리에 놓인다. 하지만 니체라면 누구나 초인(Übermensch)이 될 수 있다고 하지 않았는가. 말년의 토마시는 테레자에게서 자신의 모습을 보게 되지 않았을까. 바구니에 담겨 떠내려온 아기가, 결국엔 자신을 지탱하고 행복을 가르쳐 준 스승이 된 것이다.
+In love, the winner is the one who wins the other's heart; the one who gives their heart is left in the position of the loser. But didn't Nietzsche say that anyone could become an Übermensch? In his final years, didn't Tomas come to see his own reflection in Tereza? The baby who came floating downriver in a basket became, in the end, the teacher who held him steady and taught him happiness.
 
 # 2
 
-삶의 이유는 무엇일까. 나 자신도 그 답을 찾기까지 오랜 시간이 걸렸다. 이타적인 삶이 가장 이기적인 것이라는 말이 있다. 하지만 이 말이 쉽게 와닿지는 않는다.
+What is the reason for living? It took even me a long time to find an answer. There's a saying that an altruistic life is the most selfish thing of all. But that saying doesn't come easily to me.
 
-그러나 그 대상이 진심으로 사랑하는 사람이라면 어떨까. 사랑을 주고 싶은 마음에는 한계가 없다. 때로는 자신의 목숨을 바쳐서라도 그 사랑을 지켜내려 한다. 수많은 문학과 과학, 기술이 사랑에서 비롯되었다. 이는 물질을 초월하는 가장 강한 힘인지도 모른다.
+And yet — what if the object of that love is someone you truly, deeply love? The desire to give love has no limit. Sometimes we try to protect that love even at the cost of our own life. Countless works of literature, science, and technology have their origin in love. It may be the strongest force there is, one that transcends the merely material.
 
-사랑이란 추락일까. 토마시는 잘나가던 외과의사에서 한낱 시골 사람이 되었다. 사회적으로는 불필요해진 존재. 하지만 애초에 사회적으로 필요한 존재란 무엇인가. 사람들은 저마다 무언가를 믿는다. 그것이 자본주의라는 신이든 종교적인 신이든, 사람들은 자신이 믿는 것을 향한 사랑을 실현하며 산다. 그들이 섬기는 신은 끝없는 싸움을 통해 강해져 자신에게 더 가까이 와 주기를 바라는지도 모른다. 신에게 더 빨리 다가가기 위해, 현실의 고통을 줄이기 위해 죽음을 택하는 이도 있을 것이다. 니체라면 그런 신들은 이미 죽었다고 말했겠지만.
+Is love a fall? Tomas went from a successful surgeon to a mere country man — socially, someone no longer needed. But what does it even mean to be "socially needed" in the first place? Everyone believes in something. Whether the god they serve is capitalism or a religious god, people live out their love for whatever it is they believe in. Perhaps the gods they serve want, through endless struggle, to grow stronger and draw closer to them. Some may even choose death, to reach their god faster, to lessen the pain of reality. Though Nietzsche would say those gods are already dead.
 
-토마시가 믿었던 신은 무엇일까. 그는 여성이라는 신을 믿었다. 끊임없이 욕망을 좇으며, 테레자에게 정착하거나 만족하려 하지 않았다. 하지만 그는 가장 약하다고 여겼던 존재, 테레자에게 패배했다. 자신의 온갖 행실에도 굴하지 않고 끝내 그의 마음을 빼앗아 간 존재. 말년의 그는 자신이 좇던 그 신을 테레자에게서 발견했다.
+What god did Tomas believe in? He believed in the god of Woman. He chased desire endlessly, never trying to settle down with Tereza or find contentment in her. And yet he was defeated by the very being he had thought weakest of all: Tereza. She refused to yield to his every indiscretion, and in the end, she was the one who took his heart. In his final years, he found, in Tereza, the very god he had been chasing all along.
 
 # 3
 
-성공이란 무엇일까. 성공을 하나의 숫자놀이라고 생각해 보자. 0을 실패, 1을 성공이라 한다면, 세상은 0과 1로 이루어진 정보의 세계로 볼 수 있다. 세상에 떠도는 1을 얻기 위해 사람들은 여행을 다닌다. 책을 읽든 사람을 만나든, 자신의 0인 부분을 1로 채우기 위해 공부한다. 0을 1로 만드는 첫 단계는 0을 찾는 것이다. 그것은 아마 불만족의 상태일 것이다. 자신의 결핍을 알아야 무엇을 1로 만들지 알 수 있기 때문이다. 0을 1로 만드는 방법은 정보화 시대에 조금만 노력하면 찾을 수 있지만, 자신에게 숨어 있는 0의 존재를 발견하는 것이야말로 진정한 공부라 할 수 있다.
+What is success? Let's think of success as a kind of numbers game. If we call 0 failure and 1 success, then the world can be seen as a world of information made of 0s and 1s. People travel to obtain the 1s scattered throughout the world. Whether by reading books or meeting people, we study in order to fill our own 0s with 1. The first step in turning a 0 into a 1 is finding the 0 — and that is likely a state of dissatisfaction. Only by recognizing our own lack can we know what to turn into a 1. In an age of information, discovering how to turn a 0 into a 1 takes only a little effort. But discovering the 0 hidden within yourself — that is what real learning is.
 
-성공은 시간과 무관한 면이 있다. 시간은 뇌 활동에 따라 상대적으로 느껴진다. 누군가는 남들보다 빠르게, 누군가는 느리게 사고할 것이다. 사고의 속도는 책을 읽는 속도, 정보를 습득하는 속도와도 관련이 있다. 따라서 한 번 발견한 0을 1로 만드는 작업은 사람마다 속도가 다를 수 있다. 하지만 0을 발견하는 것은 운에 가깝다. 나보다 멋진 사람을 만나는 것, 내 부족함을 일깨워 주는 스승을 만나는 것, 내가 갖지 못한 힘을 깨닫게 해 주는 벗을 만나는 것. 이는 운명적인 만남이라 부를 만하다.
+Success, in a sense, has nothing to do with time. Time is felt relatively, depending on brain activity. Some people think faster than others, some slower, and the speed of thought is tied to the speed at which one reads and absorbs information. So the work of turning a discovered 0 into a 1 can move at a different pace for each person. But discovering the 0 in the first place is closer to luck — meeting someone more remarkable than yourself, meeting a teacher who wakes you up to your own shortcomings, meeting a friend who makes you realize a strength you never had. These are the kinds of encounters worth calling fated.
 
-0을 발견하게 해 주는 것은 대화가 가능한 상대다. 이는 인간뿐 아니라 자연에도 해당한다. 인간은 자연의 일부이고, 자연은 우리에게 많은 것을 가르쳐 준다. 역사에 이름을 남겼으나 주로 홀로 연구한 과학자들도, 분명 자연과 끊임없이 대화했을 것이다.
+What helps us discover our 0 is a partner we can actually talk to — and this applies not only to other people, but to nature as well. Humans are part of nature, and nature teaches us a great deal. Even scientists who made their names in history working mostly alone must surely have been in constant conversation with nature.
 
-완벽을 추구하는 사람일수록 0을 1로 만드는 일이 그리 어렵지 않음을 알 것이다. 그들이 진정으로 원하는 것은 자신의 0을 발견해 줄 수 있는 사람이다. '나'라는 존재는 '너'와 대화할 때 동시에 '너' 안의 '나'를 발견한다. 그것이 '나' 속의 1일 수도, 0일 수도 있다. 1은 이미 가진 것에 대한 공감이고, 0은 갖지 못한 것에 대한 결핍의 발견일 것이다. 서로 다른 이끌림이 강렬한 이유는 각자가 상대에게서 자신에게 없던 0과 1을 발견하기 때문일 것이다.
+The more someone pursues perfection, the more they'll realize that turning a 0 into a 1 isn't really all that hard. What they truly want is someone who can discover their 0 for them. The self discovers, in the very act of conversing with "you," the self that lives inside "you" as well — and that may be a 1 within me, or it may be a 0. A 1 is empathy for something already possessed; a 0 is the discovery of a lack, something not yet possessed. Perhaps the reason opposites attract so intensely is that each finds, in the other, the 0s and 1s they themselves lack.
 
 # 4
 
-그렇다면 사랑을 0과 1로 설명할 수 있을까. 일부 미래학자들, 특히 『유엔미래보고서 2045』 같은 책에 등장하는 학자들은 그럴 수 있다고 본다. 인간의 사고와 판단에는 그에 합당한 원인과 결과가 있으며, 따라서 인간의 뇌를 컴퓨터와 연결해 마인드 업로딩(mind-uploading)이 가능하리라는 주장이다. 우리가 좇는 사랑이란 결국 0과 1의 이진 신호로 이해될 수 있는, 일종의 환상 같은 것일까. 만약 그렇다면, 세상의 모든 정보에 접근해 스스로 0을 발견하고 이를 1로 만들어내는 인공지능은 어마어마한 잠재력을 지닐 것이다. 인간의 지능을 초월한 인공지능이 탄생하는 시점을, 미래학자 레이 커즈와일(Ray Kurzweil)은 기술적 특이점(Singularity)이라 부르며 그 이후의 세계는 누구도 예측할 수 없다고 말한다. 인류가 사실상 새로운 존재를 만들어낸 셈이기 때문이다. 우리가 개미의 세계를 온전히 이해하지 못하는 것과 비슷한 맥락이다.
+Could love, then, be explained in terms of 0s and 1s? Some futurists — particularly the scholars who appear in books like *State of the Future 2045* — believe it could. Their argument is that human thought and judgment have their own proper causes and effects, and that connecting the human brain to a computer could therefore make mind-uploading possible. Is the love we chase, in the end, something like an illusion — something that could be understood as nothing more than binary signals of 0 and 1? If so, then an artificial intelligence capable of accessing all the world's information, discovering its own 0s, and turning them into 1s all on its own would hold staggering potential. Futurist Ray Kurzweil calls the moment an AI surpassing human intelligence is born the "technological singularity," and says that no one can predict what the world looks like after that point — because humanity will have, in effect, created an entirely new kind of being. It's a bit like how we can never fully understand the world of ants.
 
-사랑이 0과 1로 설명될 수 있다면, 테레자와 토마시, 프란츠와 사비나가 왜 서로에게 이끌렸는지도 설명할 수 있을지 모른다. 토마시가 테레자에게서 발견한 것은 그가 좇던 '에로틱한 우정'에서 채워지지 않던 무언가였고, 프란츠가 사비나에게 이끌린 것은 자신의 참여적 신념과 대비되는, 조국과 관습으로부터 벗어나려는 그녀의 자유로움이 아니었을까. 미래학자라면 그 안에 복잡한 0과 1의 신호가 있다고 말할 것이다.
+If love really can be explained through 0s and 1s, then perhaps we could also explain why Tereza and Tomas, or Franz and Sabina, were drawn to each other. What Tomas discovered in Tereza was something that had never been filled by the "erotic friendship" he had always chased; and what drew Franz to Sabina may have been her freedom — her drive to break away from homeland and convention — standing in such contrast to his own engaged, committed beliefs. A futurist would say there is some complex signal of 0s and 1s buried within all of that.
 
 # 5
 
-살아 있음이란 무엇일까. 우리는 변화가 없는 삶을 살아 있다고 잘 말하지 않는다. 그것은 그저 존재하는 것에 가깝다.
+What does it mean to be alive? We rarely describe a life without change as "alive" — that feels closer to merely existing.
 
-어제보다 나은 내일, 더 나은 미래를 향한 인간의 욕구는 인간을 더 성숙하고 강하게 만든다. 이것이 작가가 말하는 '직선적인 삶'을 뜻할 것이다.
+The human desire for a tomorrow better than today, for a better future, is what makes us more mature and stronger. This, I think, is what the author means by a "linear life."
 
-반면 카레닌, 곧 '움직이는 기계(machinae animatae)'로서의 삶은 그저 존재하는 것이라 볼 수도 있다.
+Karenin's life, by contrast — life as a "moving machine" (*machinae animatae*) — might be seen as simply existing.
 
-그러나 한 번뿐인 것은 없는 것과 마찬가지라고도 한다. 어떤 삶을 택하든, 우리가 함부로 누군가의 삶과 사랑을 평가할 수 있을까.
+And yet, it's also said that what happens only once is as good as never having happened at all. Whatever kind of life someone chooses, do we really have the right to casually judge another person's life, or their love?
 
-대가를 바라고 삶을 사는 것, 자신의 삶에 대한 보상을 바라는 것은 온전히 순수한 행위라 보기는 어렵다. 설령 그가 위대한 기업가이거나 뛰어난 업적으로 이름을 남긴 자라 해도, 그는 자본주의의 신이나 학문의 신을 만족시켰을 뿐, 사람들의 찬사를 받을지언정 평범한 사람보다 더 높은 가치를 지닌다고 단정하기는 어렵다. 더욱이 오직 그 보상만을 목적으로 삼아 자신이 고생한 삶의 대가를 바란다면, 그 마음은 순수함과는 멀어질 것이다. 애초에 유명세나 아름다움 같은 가치는 어느 정도 환상 같은 면이 있다. 그것이 사랑의 한 형태이기도 하지만, 한편으로는 더 나은 유전자를 자손에게 남기려는 무의식적 충동일 뿐 온전히 이성적인 판단은 아닐 수 있다. 프로이트가 무의식의 존재를 밝히면서 이러한 관점은 한층 뚜렷해졌다.
+Living for the sake of a reward, hoping for compensation for one's own life, is hard to call a wholly pure act. Even if that person is a great entrepreneur, or someone remembered for extraordinary achievements, they have merely satisfied the god of capitalism or the god of scholarship — and however much acclaim they receive, it's hard to say for certain that they hold more value than an ordinary person. What's more, if the only goal is that reward — expecting a return for the hardship of one's own life — that mindset moves further away from purity. Values like fame or beauty carry, from the start, something of an illusion about them. They may be one form love takes, but they may also just be an unconscious impulse to pass better genes on to one's offspring, rather than a fully rational judgment. Freud's revelation of the unconscious made this perspective even clearer.
 
-지나치게 이성적인 사람을 순수하다고 보기는 어렵다. 결혼 상대를 재력, 집안, 능력, 외모로 점수 매겨 셈하듯 판단하는 사람을 우리가 속물이라 여기는 것과 같다. 반면 감성적인 사람은 순수하다고 볼 여지가 있다. 설령 그 판단이 다소 본능적이라 해도, 그들은 셈을 통해 사람을 만나지는 않기 때문이다. 그것이 곧 무조건적인 사랑이며, 테레자와 카레닌의 사랑이 토마시와의 사랑보다 어떤 면에서 더 순수하다고 말할 수 있는 이유다. 테레자는 카레닌을 있는 그대로 받아들였고, 그를 자신의 뜻대로 바꾸려 하지 않았다.
+It's hard to see someone who is excessively rational as pure — the same way we consider someone a snob if they judge a marriage prospect by scoring them on wealth, family background, ability, and looks, as if doing arithmetic. An emotional person, on the other hand, has room to be seen as pure. Even if their judgment is somewhat instinctive, they don't approach people through calculation. That, precisely, is unconditional love — and it's why Tereza and Karenin's love can, in a sense, be called purer than her love for Tomas. Tereza accepted Karenin exactly as he was, and never tried to change him to fit her own wishes.
 
 # 6
 
-참을 수 없는 존재의 가벼움. 사랑이란 각자가 믿는 신에 대한 환상의 투영인지도 모른다. 그렇게 보면 우리는 저마다 자신이 믿는 신을 완성하기 위한 조각을 상대에게서 구하는 셈이다. 여기서 주관적이라 함은, 각자가 자신의 악보를 완성할 음표를 상대에게서 얻으려 한다는 뜻이다. 우리 모두는 각자의 악보를 채워 나가는 중이며, 한번 시작된 멜로디가 중간에 급격히 바뀌지 않듯 각자의 삶도 큰 변화 없이 관성에 따라 흘러간다. 만약 급격한 반전이 있다면, 그것은 때때로 베토벤의 비창 소나타처럼 하나의 독창적인 곡이 될 것이다.
+The unbearable lightness of being. Love may be nothing more than each of us projecting an illusion onto the god we each believe in. Seen this way, each of us is really seeking, in the other, the missing piece needed to complete the god we believe in. To call this subjective means that each of us is trying to obtain, from the other, the notes needed to finish our own musical score. All of us are filling in our own score, note by note, and just as a melody, once begun, doesn't suddenly change midway, each of our lives tends to flow onward by its own inertia, without major upheaval. If a dramatic reversal does occur, it becomes, at times, something as singular as Beethoven's *Pathétique* sonata.
 
-우리 모두는 각자의 악보를 만들어 나가지만, 그것이 반드시 누군가를 위한 작곡은 아니다. 나 자신을 위한 나의 예술, 그것은 고스란히 나의 삶에 남았다가 죽음과 함께 사라진다.
+Each of us composes our own score, but it isn't necessarily written for anyone else. It is art for myself alone, and it stays with my life exactly as it is, disappearing only when I die.
 
-세상에는 수많은 곡이 있다. 베토벤의 교향곡처럼 운명적인 곡도, 리스트의 라 캄파넬라처럼 화려한 곡도 있지만, 전통 민요도 있고 단조로운 돌림노래도 있다. 멜로디를 따라 한 표절곡도 있을 것이고, 애국심을 담은 곡, 절망을 표현한 단조의 곡, 때로는 존 케이지의 4분 33초 같은 곡도 있다.
+The world holds countless pieces of music. There are fateful ones, like Beethoven's symphonies; dazzling ones, like Liszt's *La Campanella*; but there are also traditional folk songs and monotonous rounds. There are plagiarized melodies that merely copy another; songs filled with patriotism; minor-key pieces expressing despair; and, at times, something like John Cage's *4'33"*.
 
-어떤 곡이든 재생될 기회 자체는 평등하게 주어질 수 있다. 다만 나는 베토벤의 열정 소나타 같은 곡을 듣고 싶다. 그리고 저마다 서로 다른 곡을 재생하며 살아갈 것이다.
+Whatever the piece, it may be given an equal chance to be played. As for me, I want to listen to something like Beethoven's *Appassionata*. And each of us will go on living out, and playing, our own different piece.
 
-우리가 투영하는 세계는 모두 우리 자신에게서 나온다. 마치 씨앗이 뿌리내릴 곳을 찾는 것과 같다. 우리 모두는 각자의 생명력이라는 씨앗을, 자신이 꿈꾸는 세계를 따라 현실에 뿌리내리는 존재들이다. 그리고 그 생명력은 잡초든 거대한 나무든 인간이든 다르지 않다. 다만 서로 다른 형태로 태어나 저마다 다른 꿈을 꾸며 살아갈 뿐이다.
+The world we each project comes entirely from within ourselves — much like a seed searching for a place to take root. Each of us is a seed of our own vital force, taking root in reality according to the world we each dream of. And that vital force is no different whether it belongs to a weed, a towering tree, or a human being. We are simply born in different forms, each living out a different dream.
 
-살아 있는 모든 존재의 꿈은 저마다 가치 있지만, 존재 그 자체는 가볍다. 지구에 생명이 탄생한 지는 약 38억 년, 우주의 나이는 약 138억 년쯤 되었다. 언젠가 지구가 태양에 타 들어가도 우주는 그대로일 것이며, 어딘가에서 또다시 생명이 태어나고 사라질 것이다. 우리의 꿈은 때로 기생하는 생명이 숙주에게서 양분을 얻는 것과도 닮았고, 어떤 존재도 그 자체로 거창한 의미나 목적을 지니지는 않는지 모른다. 다만 삶을 누리고 생명을 이어 가다가, 번식하고 소멸하는 과정을 거칠 뿐이다.
+The dream of every living being holds its own value, but existence itself is light. Life first appeared on Earth roughly 3.8 billion years ago; the universe itself is roughly 13.8 billion years old. Even if the Earth is one day consumed by the sun, the universe will remain, and somewhere, life will be born and vanish all over again. Our dreams sometimes resemble a parasite drawing nourishment from its host, and perhaps no being carries, in itself, some grand, inherent meaning or purpose. We simply enjoy our lives, carry life forward, and pass through the process of reproducing and fading away.
 
-그러나 생명이 있는 한 희망은 존재한다. 희망이란 생명만이 누릴 수 있는 특권이다. 생명이 없는 세계에서라면 희망이나 사랑 같은 것은 환상에 불과할 것이다. 생명이 있기에 사랑이 존재하고 꿈꾸는 일이 가능하다. 니체가 본다면 이 모든 것을 힘에의 의지들이 벌이는 이기고 지는 과정이라 했을 것이며, 10년 전 친구와의 말다툼에서 이긴 일이 오늘의 세상에 별다른 영향을 남기지 않듯, 생명들의 싸움도 결국 하나의 이야기로 남을 뿐이다. 참을 수 없는 존재의 가벼움이란, 어쩔 수 없는 것이구나.
+And yet, as long as there is life, there is hope. Hope is a privilege that only life gets to enjoy. In a world without life, things like hope or love would be nothing but illusions. It's because there is life that love can exist, and that dreaming is possible at all. Nietzsche, seeing all this, would probably call it a process of wills to power winning and losing against one another — and just as winning an argument with a friend ten years ago leaves barely a trace on the world today, the struggles of living things, too, in the end, remain nothing more than a single story. The unbearable lightness of being — I suppose there's simply no helping it.

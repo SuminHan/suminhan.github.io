@@ -1,6 +1,6 @@
 ---
-title: "스타트업, 협력과 사랑으로 이루는 성공"
-summary: "스타트업과 협력의 경험을 통해, 진정한 성공은 물질적 부가 아니라 사람과의 소통과 함께하는 행복에서 비롯됨을 돌아본 이야기."
+title: "Startup Success, Built Through Collaboration and Love"
+summary: "A reflection on a startup and collaboration experience, and the realization that true success comes not from material wealth, but from connecting with people and the happiness of being together."
 date: 2016-01-31
 
 # Featured image
@@ -16,18 +16,18 @@ tags:
 ---
 
 
-수강 기간에 크리스마스와 신정이 껴서 초기에는 집중하기가 어려웠다. 그러나 몇 주 뒤에는 개발 실력도 늘고 앱의 본질적인 부분을 이해할 수 있어서 많은 도움이 되었다. 특히 각자 평소에 아이디어는 가지고 있었지만 학업 때문에 구현해 보지 못했던 아이템들을 직접 실천해 봄으로써 초기 스타트업의 분위기를 경험해 볼 수 있었다.
+With Christmas and New Year's falling early in the course, it was hard to focus at first. But a few weeks in, my development skills improved and I came to understand the essential parts of building an app, which helped a great deal. In particular, by actually building out ideas that each of us had long carried but never had the chance to implement because of coursework, I got a real taste of the atmosphere of an early-stage startup.
 
-우리나라 교육은 종종 남들과의 경쟁이나 정해진 답을 따라가는 데 초점이 맞춰지곤 한다. 그러나 이번 강의에서는 자율적으로 팀을 꾸리고 소통과 협력을 중시했다. 또한 크게 성공한 강사진이 사회에 기여하는 모습을 보이고, 학생들을 동등한 눈높이에서 존중해 준 경험은 오래 기억에 남을 것이다. 이러한 교육은 단순히 기술을 배우거나 돈을 많이 버는 것에 그치지 않고, 행복한 기업과 사회를 이루는 데 이바지할 것이라 믿는다.
+Education in Korea often focuses on competing with others or following predetermined answers. But this course emphasized forming teams autonomously and valued communication and collaboration. I'll also long remember watching instructors who had achieved great success still give back to society, and treating students with genuine respect as equals. I believe this kind of education contributes to more than just learning skills or making money — it helps build happier companies and a happier society.
 
-스타트업은 실패할 확률이 매우 크다. 인류가 처음 달에 발을 디딜 때처럼 큰 위험을 감수하면서도 끊임없이 연구하고 겸손한 태도로 임해야 한다. 그러나 간절히 원하면 그 꿈에 다가갈 수 있고, 설령 이루어지지 않더라도 그 과정에서 얻은 경험과 이야기는 오래 남는다. 사실 우리가 말하는 혁신이라는 것도, 누군가는 수백 년 전에 먼저 꿈꾸고 계산해 둔 세상일지 모른다. 앨런 튜링은 학창 시절 크리스토퍼 모컴이라는 친구에게서 수학과 과학에 대한 영감을 얻었고, 모컴의 이른 죽음 이후 정신과 물질, 마음과 기계의 관계에 대한 깊은 물음을 품게 되었다. 그 물음은 훗날 '생각하는 기계'라는 그의 선구적 연구로 이어졌다. 한 나라를 전쟁에서 승리로 이끌더라도, 누구도 가져 보지 못한 부를 얻더라도, 결국 행복은 내가 사랑하는 사람과 함께하는 것에 있다. 그 행복을 깨우친 사람은 지금 당장 가진 것이 적더라도 충분히 행복한 삶을 살아갈 수 있다.
+Startups fail far more often than they succeed. Like humanity's first steps on the moon, you have to take on great risk while continuing to research relentlessly and stay humble. But if you want something badly enough, you can move closer to that dream — and even if it doesn't come true, the experiences and stories gained along the way stay with you. In fact, what we call innovation today may well be something someone else dreamed of and worked out centuries ago. Alan Turing drew inspiration for mathematics and science from a childhood friend, Christopher Morcom, and after Morcom's early death, he came to hold deep questions about the relationship between spirit and matter, mind and machine. Those questions later led to his pioneering work on "thinking machines." Even if you lead a nation to victory in war, or gain wealth no one has ever possessed, happiness ultimately lies in being with the people you love. Someone who has realized that can live a fulfilling life even with very little right now.
 
-최근 한국의 여러 대기업이 어려움을 겪고 있고, 일자리 창출 문제도 쉽게 풀리지 않고 있다. 그러나 관점을 바꾸면 해야 할 일은 너무나 많다. 한국도 언젠가 달과 화성으로 나아갈 역량을 갖춰야 하고, 입시 위주의 구조 속에서 삶에 대한 고민의 여유를 갖지 못한 학생들에게 다른 길을 보여 줄 사람도 필요하다. 잠깐의 성공과 부는 얼마간 안정된 삶을 보장해 줄지 모른다. 그러나 지금은 백세 인생이 아닌가. 긴 시간 동안 무언가를 이루기 위해 꾸준히 연구하고 노력한다면, 세상에 이루지 못할 일이 무엇이 있겠는가.
+Many of Korea's large corporations have been struggling lately, and the problem of job creation hasn't been easy to solve either. But if you shift your perspective, there's so much left to do. Korea, too, will one day need the capability to reach the moon and Mars, and someone needs to show a different path to students who, caught up in an exam-driven system, haven't had the space to reflect on their own lives. A moment of success or wealth might guarantee a somewhat stable life for a while. But aren't we living to a hundred these days? If you keep researching and working steadily toward something over a long stretch of time, is there really anything in the world you couldn't achieve?
 
-권력이나 사회적 위치로 성공을 말하는 것이 아니라, 진심과 사랑으로 이루어 낸 성공 이야기들이 하나둘씩 만들어진다면 사람들도 희망을 갖게 되지 않을까. 사랑하는 사람과 함께하는 시간은 그 자체로 기적 같은 일이다. 그러한 기적 같은 이야기들이 하나씩 만들어져 나갔으면 좋겠다.
+Rather than measuring success by power or social status, I hope that stories of success built on sincerity and love will keep appearing, one by one, giving people hope. Time spent with someone you love is, in itself, something like a miracle. I hope more of those miraculous stories keep being written.
 
 ---
 
-#### 추가 자료
+#### Additional Resources
 
-* CS492 스타트업과 모바일 앱 개발 실습 ( [류석영](https://ko.wikipedia.org/wiki/%EB%A5%98%EC%84%9D%EC%98%81), [장병규](https://www.kedglobal.com/korean-games/newsView/ked202207050006) ) -- 최종 프로젝트 결과물: <https://github.com/SuminHan/UnityChan>
+* CS492 Startup and Mobile App Development Practicum ( [Seok-Young Ryu](https://ko.wikipedia.org/wiki/%EB%A5%98%EC%84%9D%EC%98%81), [Byung-Gyu Chang](https://www.kedglobal.com/korean-games/newsView/ked202207050006) ) -- Final project result: <https://github.com/SuminHan/UnityChan>

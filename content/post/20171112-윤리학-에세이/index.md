@@ -1,6 +1,6 @@
 ---
-title: 윤리학 에세이 - 과학기술자는 이상주의자
-summary: 과학기술자는 자신이 꿈꾸는 이상을 실현하기 위해 기술을 활용하는 사람이며, 기술이 발전할수록 그 설계와 사용에 따르는 윤리적 책임과 인문학적 소양의 중요성도 함께 커진다.
+title: "Ethics Essay — The Scientist-Engineer as Idealist"
+summary: "A scientist-engineer is someone who uses technology to realize the ideals they envision, and as technology advances, so does the importance of the ethical responsibility and humanistic literacy that come with designing and using it."
 date: 2017-11-12
 
 # Featured image
@@ -15,72 +15,72 @@ tags:
   - Academic
 ---
 
-### Q1: 과학기술자의 정의
-__Q: 과학기술자란 어떤 사람을 의미하는가?__
+### Q1: Defining the Scientist-Engineer
+__Q: What do we mean by a "scientist-engineer"?__
 
-A: 과학기술(영어: science and technology)은 사전적으로 "자연과학, 응용과학, 공학 따위를 실제로 적용하여 인간 생활에 유용하도록 가공하는 수단을 통틀어 이르는 말"이다. 따라서 과학기술자는 이러한 직종에 종사하는 사람들이라고 볼 수 있다.
+A: "Science and technology" is defined, in the dictionary sense, as "a collective term for the means by which natural science, applied science, engineering, and the like are actually applied and processed to be useful for human life." A scientist-engineer, then, can be understood as someone who works in fields of this kind.
 
-### Q2: 과학기술자의 연구 동기 — 가치 vs. 이익
-__Q: 과학기술자는 학문적인 가치보다 금전적인 이익을 위해 연구하지 않는가?__
+### Q2: The Scientist-Engineer's Motivation — Value vs. Profit
+__Q: Don't scientist-engineers do research for financial gain rather than academic value?__
 
-A: 반드시 그렇지는 않다. 물론 돈을 위해 연구하는 과학기술자가 없다는 뜻은 아니지만, 많은 경우 가치와 인류에 대한 기여 또한 중요한 동기가 된다.
+A: Not necessarily. That's not to say there are no scientist-engineers who do research purely for money, but in many cases, value and a contribution to humanity are also important motivations.
 
-### Q3: 과학기술자의 이윤 추구 가능성
-__Q: 말이 너무 추상적이다. 과학기술을 기반으로 하는 여러 IT기업이 존재하고, 현대 사회에서 그들이 주류를 이루며 상당한 이윤을 창출하고 있다. 그런데도 어떻게 과학기술자가 돈을 위해서만 연구하지 않는다고 말할 수 있는가?__
+### Q3: The Possibility of Profit-Seeking Among Scientist-Engineers
+__Q: That's too abstract. There are plenty of IT companies built on science and technology, and they make up the mainstream of contemporary society while generating substantial profit. So how can you claim that scientist-engineers don't do research purely for money?__
 
-A: 기업의 목적이 이윤 창출이라고들 하지만, 돈만을 좇는 회사가 반드시 크게 성공하는 것은 아니다. 오래 성공하는 회사는 대체로 확고한 방향과 미래에 대한 통찰을 가지고 자신의 상상을 현실로 구현한다. 다시 말해 자신이 바라는 이상을 실현하기 위해 과학기술을 활용한다는 점에서, 과학기술자에게는 이상주의자의 면모가 있다고 볼 수 있다.
+A: People say a company's purpose is profit, but a company chasing money alone doesn't necessarily achieve great success. Companies that succeed over the long run generally have a firm sense of direction and insight into the future, and they turn their own imagination into reality. In other words, in the sense that they use science and technology to realize the ideals they hope for, scientist-engineers can be said to have something of the idealist in them.
 
-### Q4: 과학기술자와 학문적 윤리의 차이
-__Q: 과학기술자는 자연과학자나 철학자, 수학자와 차이가 있다. 후자들은 학문적이고 전혀 새로운 이론을 정립하는 것이 큰 가치이기에, 본질을 훼손하지 않기 위해 이윤을 추구하는 행위를 비윤리적이라 보기도 한다. 예를 들어 철학자가 돈을 좇느라 주류 이론만 가르치고 자신의 철학 없이 유행과 인기에만 연연하는 경우가 있다. 반면 과학기술자는 스타트업처럼 기술을 활용해 이윤을 창출하는 경우가 많고, 그것을 오히려 바람직하게 본다. 과학기술자는 이상을 구현하기보다 자신의 욕구를 채우기 위해 기술을 활용하는 것이 아닌가? 또 "아는 것은 힘이다"라는 명제처럼 자신의 지식을 이용해 상대적 약자로부터 이익을 취하는 것이라면, 이는 트라시마코스가 말한 "정의란 강자의 이익에 지나지 않는다"는 명제와 무엇이 다른가?__
+### Q4: The Difference Between Scientist-Engineers and Academic Ethics
+__Q: There's a difference between a scientist-engineer and a natural scientist, philosopher, or mathematician. For the latter, establishing an entirely new academic theory is itself of great value, so pursuing profit is sometimes seen as unethical, on the grounds that it corrupts the essence of the work. For example, there are philosophers who, chasing money, teach only mainstream theory and cling to trends and popularity rather than developing a philosophy of their own. Scientist-engineers, by contrast, often use technology to generate profit, as in a startup — and that's even seen as desirable. Isn't a scientist-engineer, then, using technology to satisfy their own desires rather than to realize an ideal? And if, per the maxim "knowledge is power," they're simply using their knowledge to extract gains from a relatively weaker party, how is that any different from Thrasymachus's claim that "justice is nothing but the advantage of the stronger"?__
 
-A: 에디슨의 전구를 예로 들어보자. 에디슨은 뛰어난 과학 이론이나 수학·철학 개념을 세운 사람이라기보다 과학기술자이자 기업가로 분류할 수 있다. 그는 어두운 밤에도 생산적인 활동을 할 수 있도록 전구를 실용화했고, 이는 인류에 큰 기여를 했다. 물론 그 동기 중에 돈을 벌고 싶다는 마음도 있었을 수 있다. 그러나 공공의 이익이라는 관점에서 보면, 그가 실용화한 전구는 인류의 생산성을 크게 확대했고, 결과적으로 그의 행위는 인류의 이상에 가까워지는 데 기여한 측면이 있다. 즉 동기와 결과가 언제나 상충하는 것은 아니다.
+A: Take Edison's light bulb as an example. Edison is better classified as a scientist-engineer and entrepreneur than as someone who established a brilliant scientific theory or a concept in mathematics or philosophy. He made the light bulb practical, allowing people to carry out productive activity even in the dark of night, and this was an enormous contribution to humanity. Of course, part of his motivation may well have been the desire to make money. But from the standpoint of the public good, the light bulb he made practical greatly expanded humanity's productivity, and as a result, his actions contributed, in their own way, to bringing us closer to a human ideal. In other words, motive and outcome don't always conflict with one another.
 
-### Q5: 이상 실현을 위한 과학기술의 역할
-__Q: 이상에 가까워지는 행위란 무엇인가?__
+### Q5: The Role of Science and Technology in Realizing Ideals
+__Q: What does it mean to act in a way that brings us closer to an ideal?__
 
-A: 인간의 의지를 확장하고 한계를 넓히는 데 기여하는 행위들을 말한다. 과학기술은 이러한 확장에 크게 기여해 왔다. 예를 들어 인터넷을 통해 전 세계가 정보를 공유하고, 뇌·신경 신호를 연결해 장애인을 위한 의수를 만들며, 인공지능 기술로는 알파고처럼 바둑에서 인간 최고 수준을 넘어서는 성취를 이루기도 했다(다만 알파고도 이세돌 9단과의 대국에서 한 판을 내주었듯, '절대 무적'이라기보다 인간의 정상급 기량을 넘어선 사례로 보는 편이 정확하다). 이는 인간의 한계 너머에 있던 것을 인간의 범위 안으로 끌어들인 사례다. 옛 과학자들이 자연을 이해하는 일을 뜻깊은 탐구로 여겼듯, 오늘날의 과학기술자도 그러한 역할의 한 축을 맡고 있다고 볼 수 있다.
+A: It refers to actions that contribute to expanding human will and pushing back its limits. Science and technology have contributed enormously to this kind of expansion. For example, the internet lets the entire world share information; connecting brain and nerve signals has made it possible to build prosthetic limbs for people with disabilities; and artificial intelligence, as in the case of AlphaGo, has achieved feats in the game of Go that surpass even the very best human players (though, given that AlphaGo did lose one game to 9-dan Lee Sedol, it would be more accurate to describe it as a case of surpassing top-tier human skill rather than being "absolutely invincible"). These are cases in which something once beyond the human limit was drawn into the range of what humans can do. Just as scientists of old regarded understanding nature as a meaningful pursuit in itself, today's scientist-engineers can be seen as carrying on that very same role.
 
-### Q6: 진보라는 관점에 대하여
-__Q: '이상세계가 존재한다'는 것은 형이상학적 신념에 기댄 주관적 철학이 아닌가 하는 생각이 든다. 극단적으로 니체의 지지자들은 그러한 관점을 받아들이기 어려울 것이다.__
+### Q6: On the Notion of Progress
+__Q: It seems to me that the claim "an ideal world exists" is a subjective philosophy resting on a metaphysical belief. Nietzsche's more extreme followers, in particular, would find that view hard to accept.__
 
-A: '이상세계'라는 표현이 다소 형이상학적으로 들릴 수 있다는 지적은 타당하다. 다만 거창한 이상을 전제하지 않더라도, 인류가 기술을 통해 전보다 더 많은 일을 할 수 있게 되어 왔다는 점은 부정하기 어렵다. 의지라는 개념으로 설명하자면, 인간의 의지가 더 강해지고 그것이 뻗어 나갈 수 있는 방향으로 기술이 발전해 온 측면이 있다. 반드시 '이상'이라는 단어를 쓰지 않더라도, 인류는 기술을 통해 꾸준히 역량을 넓혀 왔다.
+A: It's a fair point that the phrase "ideal world" can sound somewhat metaphysical. But even without presupposing some grand ideal, it's hard to deny that humanity has, through technology, become able to do more than it once could. Put in terms of "will," there's a sense in which technology has developed in a direction that lets human will grow stronger and extend further. Even without necessarily using the word "ideal," humanity has steadily expanded its capabilities through technology.
 
-### Q7: 과학기술의 발전과 전쟁
-__Q: 과학기술이 가장 급격하게 발전한 시기는 1·2차 세계대전 같은 전쟁 기간이었다. 그리고 전쟁 무기를 만드는 데 과학기술이 가장 많이 쓰였고 가장 많이 발전했다. 이 또한 인류의 이상을 구현하기 위해 개발된 것인가?__
+### Q7: The Advancement of Science and Technology, and War
+__Q: The periods in which science and technology advanced most rapidly were wartime periods, like the First and Second World Wars. Science and technology were used, and developed, more than anywhere else in the making of weapons. Was this, too, developed in order to realize humanity's ideals?__
 
-A: 이 경우는 과학기술이 악용된 사례로 볼 수 있다. 예를 들어 같은 핵분열 기술이라도 원자력 발전소에서 전기를 만드는 데 쓸 수도 있고, 핵무기로 쓸 수도 있다. 아인슈타인이 핵무기 사용을 우려했듯, 많은 과학자들은 과학이 악용되는 것을 경계해 왔다. 그리고 소크라테스가 "정의란 강자의 이익에 지나지 않는다"는 트라시마코스의 주장을 반박했듯, 지식을 가진 강자가 약자를 짓밟는 행위를 정의라고 부르기는 어렵다. 이에 대한 논의는 플라톤의 『국가』에서 깊이 다루어진 바 있다.
+A: This can be seen as a case in which science and technology were misused. Take, for instance, nuclear fission: the very same technology can be used to generate electricity at a nuclear power plant, or to build a nuclear weapon. Just as Einstein worried about the use of nuclear weapons, many scientists have been wary of science being misused. And just as Socrates refuted Thrasymachus's claim that "justice is nothing but the advantage of the stronger," it's hard to call it justice when the strong, armed with knowledge, trample the weak. This very question is explored in depth in Plato's *Republic*.
 
-### Q8: 과학기술과 무기 개발의 윤리
-__Q: 그렇다면 자신의 가족과 국가를 지키기 위해 과학기술을 개발하고 무기를 만든 사람들은 어떠한가?__
+### Q8: The Ethics of Science, Technology, and Weapons Development
+__Q: What about the people who developed science, technology, and weapons in order to protect their own families and country?__
 
-A: 여기에는 권력의 필요에 따라 과학기술자가 동원된 측면이 있다. 더 강력한 무기가 경쟁적으로 만들어지는 흐름 전체를 개별 과학기술자의 잘못으로 돌리기는 어렵다. 다만 "기술 그 자체는 순수하며 책임은 오직 그것을 휘두르는 자에게 있다"는 생각은 조심스럽게 다룰 필요가 있다. 기술은 그것을 만드는 과정에서 이미 특정한 목적과 가치를 담게 되며, 무엇을 어떻게 설계할지에는 개발자의 선택이 개입한다. 따라서 기술 자체에 악의가 없다는 것과, 그것을 설계·개발하는 사람에게 아무런 책임이 없다는 것은 별개의 문제다. 오늘날 공학윤리가 사용자의 책임뿐 아니라 설계자와 개발자의 책임을 함께 강조하는 것도 이 때문이다. 물론 자신의 사익을 위해 기술을 의도적으로 악용하는 사람을 과학기술자의 이상적 상(像)이라 부르기는 어려울 것이다.
+A: There's a sense in which scientist-engineers, in these cases, were mobilized by the needs of power. It's hard to lay the blame for an entire arms race — the competitive drive to build ever more powerful weapons — on any individual scientist-engineer. Still, the idea that "technology itself is pure, and responsibility lies solely with whoever wields it" needs to be handled with care. Technology already comes to embody a particular purpose and set of values in the very process of being created, and the developer's choices are inevitably involved in what gets designed and how. So the claim that the technology itself holds no malice is a separate matter from the claim that the people who design and develop it bear no responsibility at all. This is exactly why engineering ethics today emphasizes not just the user's responsibility, but the responsibility of designers and developers as well. And of course, it would be hard to call someone who deliberately misuses technology for their own private gain the ideal image of a scientist-engineer.
 
-### Q9: 산학 연구와 과학기술자의 역할
-__Q: 여러 대학 연구실이 기업과 연계한 연구·개발 사업을 수행한다. 이들 역시 기업의 이윤을 위해 과학기술을 악용하는 것이 아닌가?__
+### Q9: Industry-Academia Research and the Role of the Scientist-Engineer
+__Q: Many university labs carry out research and development projects in partnership with companies. Isn't this, too, a case of misusing science and technology for corporate profit?__
 
-A: 이는 과학기술자의 판단에 달린 문제이며, 무엇보다 어떤 사업이냐가 관건이다. 기업이 원하고 이익이 된다는 이유만으로 수행할 것이 아니라, 그 사업이 어떤 가치를 창출하고 사회에 어떤 긍정적 영향을 줄 수 있는지를 함께 고려해야 한다. 많은 이공계 교육이 과학기술만이 아니라 인문·사회과학 과목을 함께 이수하도록 하고, 교양을 갖춘 과학자를 길러내려 하는 것도 이러한 판단력을 기르기 위해서다.
+A: This comes down to the judgment of the scientist-engineer, and above all, to what kind of project it is. Rather than taking on a project just because a company wants it and it's profitable, one also needs to weigh what value that project creates and what positive impact it might have on society. This is also exactly why so much science and engineering education requires students to take courses in the humanities and social sciences alongside their technical training, aiming to cultivate scientists with broad, well-rounded literacy — precisely to build this kind of judgment.
 
-### Q10: 인공지능과 일자리
-__Q: 인공지능이 발전하면서 인간은 일자리를 잃고 그 자리가 인공지능으로 대체되고 있다. 이처럼 과학기술이 인류에게 해가 되는 것은, 결국 강자가 약자를 지배하는 일이 아닌가?__
+### Q10: Artificial Intelligence and Jobs
+__Q: As artificial intelligence advances, people are losing their jobs and being replaced by AI. Isn't this — science and technology harming humanity — ultimately just another case of the strong dominating the weak?__
 
-A: 인공지능으로 인해 일자리가 사라지는 것은 사실이며, 그 과정에서 특정 직군과 세대가 겪는 고통은 결코 가볍지 않다. 새로운 일자리가 생겨나더라도, 기존 일자리를 잃은 사람이 곧바로 그리로 옮겨 갈 수 있는 것은 아니기 때문이다. 그래서 재교육과 사회적 안전망 같은 전환기의 장치가 함께 마련되어야 한다. 그러한 노력이 뒷받침될 때, 단순 반복 업무는 기술이 대체하더라도 새롭게 배우고 창의적으로 사고하는 일의 가치는 오히려 커질 수 있다. 또 인공지능이 아무리 발전해도 그것을 활용해 가치를 만들어내는 일은 여전히 사람의 몫이다. 예를 들어 인공지능을 설계하는 사람뿐 아니라, 학습에 필요한 데이터를 다루고 정제하는 사람의 역할도 중요하다.
+A: It's true that AI is eliminating jobs, and the pain that particular occupations and generations experience in that process is by no means trivial. Even if new jobs are created, it's not as though someone who lost their old job can simply move straight into a new one. That's why we need transitional mechanisms — retraining and a social safety net — put in place alongside this shift. When that kind of support exists, even as technology takes over simple, repetitive tasks, the value of newly learning and thinking creatively can actually grow. And no matter how far AI advances, using it to create value remains, fundamentally, a human task. For example, the role of people who handle and refine the data needed for training matters just as much as the role of the people who design the AI itself.
 
-### Q11: SNS와 기술 남용 문제
-__Q: 말은 좋아 보이지만, 그 또한 결국 사람들을 기술로 지배하는 것이 아닌가? 예를 들어 SNS는 사람들을 중독시키기도 하고, 이용자에게서 얻은 정보를 이용해 특정 제품을 광고하거나 특정한 생각(정치 성향 등)을 하도록 유도한다는 연구 결과가 있다.__
+### Q11: Social Media and the Problem of Technology Misuse
+__Q: This all sounds nice, but isn't it still, in the end, a way of dominating people through technology? For instance, there's research showing that social media can be addictive, and that companies use the information gathered from users to advertise particular products or nudge people toward particular ways of thinking (political leanings, for example).__
 
-A: 특정 방향으로 생각하도록 편향된 기사만 노출시키는 등의 조작은 분명 잘못이다. 다만 그 책임을 그것으로 이익을 얻는 집단에게만 돌리고 기술과 개발자를 면책하는 것은 충분하지 않다. 추천 알고리즘을 어떻게 설계하느냐에 따라 중독성이나 편향이 강해지기도 완화되기도 하기 때문이다. 따라서 SNS의 중독성이나 편향된 정보가 문제를 일으킨다면, 그것은 개발자와 과학기술자가 설계 단계에서부터 함께 책임지고 풀어가야 할 과제다.
+A: Manipulation of that kind — exposing people only to biased articles designed to push their thinking in a particular direction — is clearly wrong. But it isn't enough to lay all the blame on whichever group profits from it while letting the technology and its developers off the hook, because how a recommendation algorithm is designed can make addictiveness or bias either stronger or weaker. So if social media's addictiveness or the spread of biased information is causing real problems, that's a challenge developers and scientist-engineers need to take responsibility for and work through, starting from the design stage.
 
-### Q12: 과학기술이 넓혀갈 미래
-__Q: 기술의 발전이 인류를 더 나은 미래로 이끌 것으로 생각하는가?__
+### Q12: The Future That Science and Technology Will Open Up
+__Q: Do you think technological advancement will lead humanity toward a better future?__
 
-A: 그럴 가능성이 크다고 본다. 인간이 아직 경험하지 못한 것, 느끼지 못하던 범위까지 확장해 느낄 수 있게 만들 것이다. 예를 들어 뇌파 자극을 이용해 날개를 가진 듯한 감각을 전할 수 있다는 연구도 있다. 다른 동물이 느끼는 감각을 인간도 느끼는 날이 올 수 있고, 인류가 우주로 뻗어 나가 새로운 행성을 개척할 수도 있다. 다만 그러한 미래가 저절로 좋은 방향으로 오는 것은 아니며, 어떻게 설계하고 어떤 가치를 담느냐에 따라 그 모습은 크게 달라질 것이다.
+A: I believe there's a good chance of that. It will expand the range of what humans can experience and feel into territory we haven't yet reached. There's research, for instance, suggesting that brainwave stimulation could be used to convey the sensation of having wings. A day may come when humans can feel the same senses other animals feel, and when humanity expands into space to settle new planets. That said, a future like this won't arrive in a good direction on its own — how it turns out will depend heavily on how it's designed and what values are built into it.
 
-### Q13: 인공지능 비관론에 대하여
-__Q: 인간이 스스로 만든 기술로 인해 자멸할 것이라는 입장도 있다. 특히 인공지능에 대한 비관론이 그러하다. 이에 대한 의견은 어떠한가?__
+### Q13: On Pessimism About Artificial Intelligence
+__Q: There's also a view that humanity will destroy itself through the very technology it created — pessimism about AI, in particular, tends to take this shape. What's your opinion on this?__
 
-A: 전면적으로 동의하기는 어렵다. 이 글을 쓰던 시점의 인공지능은 대단해 보여도 스스로 생각하는 것은 아니었다. 빅데이터를 기반으로 한 기계학습, 그중에서도 인간의 신경망을 모방한 딥러닝 기법을 사용하며, 이는 모두 수학적 이론에 근거한다. 그래서 정해진 범위 안에서 최적의 답을 내는 데는 특화되어 있지만, 현실 세계의 문제를 인간의 개입 없이 스스로 규정하고 해결하지는 못한다. 다만 기술이 빠르게 발전하는 만큼 비관론이 제기하는 위험을 근거 없다고 일축하기보다, 그러한 우려를 진지하게 살피며 안전하게 발전시켜 나가는 태도가 필요하다.
+A: It's hard for me to fully agree. At the time this piece was written, AI, however impressive it looked, was not actually thinking for itself. It relied on machine learning built on big data — deep learning in particular, which mimics the human neural network — and all of it is grounded in mathematical theory. So while it's specialized at producing optimal answers within a defined range, it cannot, on its own and without human involvement, define and solve real-world problems for itself. Still, given how rapidly the technology is advancing, rather than dismissing the risks pessimists raise as baseless, we need an attitude that takes those concerns seriously while continuing to develop the technology safely.
 
-### 맺으며
-과학기술자는 자연과학자, 철학자, 수학자, 예술가와 마찬가지로 자신이 생각하는 이상을 실현하기 위해 기술을 활용한다. 그러한 지향 없이 오직 권력욕이나 소유욕 같은 개인의 욕구만을 채우기 위해 기술을 사용하는 것은 바람직하지 않다. 전쟁보다 평화가, 탐욕보다 나눔이 더 아름답듯, 과학기술자는 더 가치 있는 세상을 만드는 데 자신의 지식을 쓸 수 있다. "아는 것은 힘"이라는 말처럼, 과학기술자에게 지식은 문학가의 펜, 화가의 물감, 정치가의 목소리와 같이 세상을 바꾸는 도구다. 이를 개인의 욕심을 넘어 더 원대한 꿈을 실현하는 데 쓴다면 더 큰 가치를 만들어낼 수 있을 것이다.
+### Closing Thoughts
+A scientist-engineer, much like a natural scientist, philosopher, mathematician, or artist, uses technology to realize the ideal they envision. Using technology solely to satisfy personal desires — a hunger for power or possession — without any such orientation, is not something to be welcomed. Just as peace is more beautiful than war, and sharing more beautiful than greed, a scientist-engineer can put their knowledge to work building a more valuable world. As the saying goes, "knowledge is power" — and for a scientist-engineer, knowledge is a tool for changing the world, just as the pen is for a writer, the paintbrush for a painter, and the voice for a politician. Used to realize a grander dream, beyond mere personal greed, it can create far greater value.
 
-사람들이 꿈꾸던 미래를 어떻게 구체적으로 실현해 나갈지 이해하고 통찰하는 이들 또한 과학기술자다. 기술이 빠르게 발전하는 만큼 과학기술자가 지녀야 할 책임도 함께 커지고 있다. 앞으로의 과학기술자는 기술을 익히고 돈을 버는 데만 힘쓸 것이 아니라, 사회와 인류를 향한 사명감을 갖고 일할 필요가 있다. 특히 현대의 과학기술자는 기업가나 정치인처럼 세상에 영향을 미치는 다른 영역으로도 진출하기 쉬운 만큼, 인문학적 소양과 윤리에 대한 교육이 더욱 중요해진다. 그렇게 길러진 사람들이 올바른 시각을 갖춘다면, 사회도 그들과 함께 더 나은 방향으로 나아갈 수 있을 것이다. 객관적으로 세상을 바라보고 이해하는 과학기술자들이 사회에 더 많은 영향을 끼치게 된다면, 지금보다 조금 더 밝은 미래를 기대해 볼 수 있으리라 생각한다.
+The people who understand and gain insight into how to concretely realize the futures humanity has dreamed of are also scientist-engineers. As technology advances rapidly, the responsibility a scientist-engineer must bear grows right alongside it. Tomorrow's scientist-engineers need to do more than simply master technology and make money — they need to work with a real sense of mission toward society and humanity. And because today's scientist-engineers, in particular, can move so easily into other spheres of influence — becoming entrepreneurs or politicians — education in humanistic literacy and ethics becomes all the more important. If the people raised this way come to hold the right perspective, society can move forward in a better direction alongside them. If scientist-engineers who view and understand the world objectively come to exert greater influence on society, I believe we can look forward to a future that is, if only a little, brighter than the one we have now.
