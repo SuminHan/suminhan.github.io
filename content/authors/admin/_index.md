@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Faculty, Korea Science Academy of KAIST
+role: Faculty Member
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
