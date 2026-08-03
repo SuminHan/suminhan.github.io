@@ -11,7 +11,7 @@ tags:
   - News
 ---
 
-Since August 1, I've joined Korea Science Academy of KAIST (KSA) as full-time faculty in the Informatics department.
+Since August 1, I've joined Korea Science Academy of KAIST (KSA) as full-time faculty in the Dept. of Mathematics & Computer Science.
 
 For about ten months before that, starting last summer, I served as CTO at Divercity House, leading full-stack web and app development — work that was recognized with an award at the Asan Nanum Foundation's Chung Ju-yung Startup Competition. For the past three months, I worked as a Forward-Deployed Engineer at Skelter Labs, embedded alongside a global consulting firm at a client site to shape the service design and use cases for an AX (AI transformation) project, and in the early stages, contributed in a small way to building the Bella platform.
 
