@@ -20,10 +20,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Ph.D. / Catholic
+role: Faculty, Korea Science Academy of KAIST
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
+  - name: Korea Science Academy of KAIST
+    url: https://www.ksa.hs.kr/
   - name: KAIST
     url: https://kaist.ac.kr/en/
 
@@ -53,6 +55,7 @@ interests:
   - Traffic Prediction
   - Urban Computing
   - GeoSpatial AI
+  - AI Education
 
 education:
   - area: Ph.D. Computer Science
@@ -72,8 +75,18 @@ education:
     institution: Korea Science Academy of KAIST
     date_start: 2009-03-01
     date_end: 2013-02-28
-   
+
 work:
+  - position: Faculty Member
+    company_name: Korea Science Academy of KAIST
+    company_url: 'https://www.ksa.hs.kr/'
+    date_start: 2026-08-01
+    date_end: ''
+    summary: |2-
+      Responsibilities include:
+      - Teaching Machine Learning I & II for gifted science students
+      - Research in spatiotemporal deep learning, urban computing, and geospatial AI
+      - Curriculum development for AI and computer science education
   - position: Applied AI Technical Engineer (Full Stack)
     company_name: Skelter Labs
     company_url: 'https://www.skelterlabs.com/'
@@ -159,6 +172,10 @@ languages:
 
 ## About Me
 
-**Dr. Sumin Han**, Ph.D. from KAIST, is an AI researcher specializing in **deep learning** and **spatiotemporal prediction**, with a focus on **urban human activity analysis** for real-time traffic forecasting. He has published at top international conferences, won awards for **AI-driven innovations**, and holds patents on predictive modeling. Recognized in multiple **hackathons and competitions**, he is committed to **bridging technology and society** through impactful AI solutions for urban planning and smart cities.
+**Dr. Sumin Han** is a faculty member at the **Korea Science Academy of KAIST** in Busan, where he teaches machine learning to gifted science students — returning to the school he himself graduated from in 2013.
+
+He holds a Ph.D. in Computer Science from KAIST, where his dissertation developed **spatiotemporal traffic forecasting models informed by urban human activity**. His research spans **deep learning**, **graph neural networks**, and **geospatial AI**, published at venues including CIKM, with four patents in urban computing. Before joining KSA, he worked on applied AI for the financial sector and on LLM agent platforms in industry.
+
+His teaching aims at a simple conviction: that the education capable of producing Korea's first Nobel laureate in the sciences begins here.
 
 E-mail: suminkaist@gmail.com, Instagram: <a href="https://www.instagram.com/smhan.lab" target="_blank">@smhan.lab</a>
