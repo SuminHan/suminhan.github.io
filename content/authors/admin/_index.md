@@ -33,22 +33,22 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:suminkaist@gmail.com'
+    url: 'mailto:suminhan@ksa.kaist.hs.kr'
     label: E-mail Me
-  - icon: brands/instagram
-    url: https://www.instagram.com/smhan.lab/
   - icon: brands/github
     url: https://github.com/suminhan
   - icon: brands/linkedin
     url: https://www.linkedin.com/in/sumin-han-cs/
-  - icon: brands/youtube
-    url: https://www.youtube.com/@ImmanuelSuminHan
   - icon: academicons/google-scholar
     url: https://scholar.google.co.kr/citations?hl=en&user=68LgAZAAAAAJ
   - icon: academicons/orcid
     url: https://orcid.org/0000-0002-4071-8469
-  - icon: brands/x
-    url: https://twitter.com/smhanlab
+  # Kept out of the public profile for now — re-enable if either becomes
+  # a channel for teaching or research content.
+  # - icon: brands/youtube
+  #   url: https://www.youtube.com/@ImmanuelSuminHan
+  # - icon: brands/x
+  #   url: https://twitter.com/smhanlab
 
 
 interests:
@@ -174,8 +174,8 @@ languages:
 
 **Dr. Sumin Han** is a faculty member at the **Korea Science Academy of KAIST** in Busan, where he teaches machine learning to gifted science students — returning to the school he himself graduated from in 2013.
 
-He holds a Ph.D. in Computer Science from KAIST, where his dissertation developed **spatiotemporal traffic forecasting models informed by urban human activity**. His research spans **deep learning**, **graph neural networks**, and **geospatial AI**, published at venues including CIKM, with four patents in urban computing. Before joining KSA, he worked on applied AI for the financial sector and on LLM agent platforms in industry.
+He holds a Ph.D. in Computer Science from KAIST, where his dissertation developed **spatiotemporal traffic forecasting models informed by urban human activity**. His research spans **deep learning**, **graph neural networks**, and **geospatial AI**. Before joining KSA, he worked on applied AI for the financial sector and on LLM agent platforms in industry.
 
 His teaching aims at a simple conviction: that the education capable of producing Korea's first Nobel laureate in the sciences begins here.
 
-E-mail: suminkaist@gmail.com, Instagram: <a href="https://www.instagram.com/smhan.lab" target="_blank">@smhan.lab</a>
+E-mail: suminhan@ksa.kaist.hs.kr
