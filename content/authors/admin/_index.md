@@ -33,7 +33,7 @@ organizations:
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
   - icon: at-symbol
-    url: 'mailto:suminhan@ksa.kaist.hs.kr'
+    url: 'mailto:suminhan@ksa.kaist.ac.kr'
     label: E-mail Me
   - icon: brands/github
     url: https://github.com/suminhan
