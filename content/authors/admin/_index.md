@@ -178,4 +178,4 @@ He holds a Ph.D. in Computer Science from KAIST, where his dissertation develope
 
 He teaches on the conviction that what happens in a gifted student's first encounter with real research shapes everything that follows.
 
-E-mail: suminhan@ksa.kaist.hs.kr
+E-mail: suminhan@ksa.kaist.ac.kr
