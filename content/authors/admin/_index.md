@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Sumin Han (Immanuel)
+title: Sumin Han
 
 # Name pronunciation (optional)
 # name_pronunciation: Sumin Han
