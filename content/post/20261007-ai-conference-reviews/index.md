@@ -11,6 +11,9 @@ tags:
   - Machine Learning
   - Peer Review
   - Data Analysis
+
+url_pdf: '/post/20261007-ai-conference-reviews/han2026aireviews.pdf'
+url_video: 'https://youtu.be/Ej-7fvowj1U'
 ---
 
 **TL;DR.** I downloaded every public review on OpenReview for the three largest machine-learning conferences: **84,212 papers and 322,903 reviews** from ICLR 2018–2026, NeurIPS 2021–2025, and ICML 2025–2026. Six things stood out.
