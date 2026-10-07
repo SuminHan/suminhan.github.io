@@ -12,6 +12,7 @@ tags:
   - Data Analysis
 
 url_pdf: '/post/20261007-seoul-mobility-motives/han2026seoulmotives_en.pdf'
+url_video: 'https://youtu.be/YmkSxE1oW0w'
 ---
 
 **TL;DR.** I took a year of hourly trips between 481 districts of the Seoul metropolitan area (Seoul Metropolitan Government and KT mobility data, 2024) and asked whether a few hidden travel motives could explain them. The model only ever saw flow counts. Everything else in the data, including trip purpose and nationality, was kept as an answer key.
@@ -23,7 +24,9 @@ url_pdf: '/post/20261007-seoul-mobility-motives/han2026seoulmotives_en.pdf'
 5. What did not work: recovering the held-out trip-purpose label beats a time-of-day-only guess by just **1.6 percentage points**, and no "tourist" motive appeared, because short-term foreigners move almost exactly like Korean nationals (hourly correlation **0.976**).
 6. A side result: Seoul commute distances **did not grow** in 2023–2026 (mean **11.11 km → 10.88 km**).
 
-The full write-up is a working paper: **[PDF (English)](han2026seoulmotives_en.pdf)**. The original Korean draft is also available: **[Korean version (PDF)](han2026seoulmotives_ko.pdf)**.
+The full write-up is a working paper: **[PDF (English)](han2026seoulmotives_en.pdf)**. The original Korean draft is also available: **[Korean version (PDF)](han2026seoulmotives_ko.pdf)**. If you prefer to watch, here is a five-minute video version:
+
+{{< youtube YmkSxE1oW0w >}}
 
 ---
 
